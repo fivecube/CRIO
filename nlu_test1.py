@@ -2,8 +2,8 @@ import json
 from ibm_watson import NaturalLanguageUnderstandingV1
 from ibm_watson.natural_language_understanding_v1 import Features, CategoriesOptions
 
-credentials = {"api_key": "2P0K4Lzp1HvZRr4LgAhFCHIMuEnBvsZ44LhlJYx4fFVX",
-               "api_url": "https://gateway-tok.watsonplatform.net/natural-language-understanding/api"}
+credentials = {"api_key": "FQIQwKhvfCy1pjNJqOZ6ZH3M8YZI6on5t8Hr0Eyumep2",
+               "api_url": "https://gateway.watsonplatform.net/natural-language-understanding/api"}
 
 
 natural_language_understanding = NaturalLanguageUnderstandingV1(
