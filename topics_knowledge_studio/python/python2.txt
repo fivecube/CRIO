@@ -1,100 +1,100 @@
-&quot;Large data&quot; work flows using pandas
-How to iterate over rows in a DataFrame in Pandas?
-What&#39;s the difference between lists and tuples?
-Import a module from a relative path
 python open built-in function: difference between modes a, a+, w, w+, and r+?
+How to make a class JSON serializab.
+How do I parse an ISO 8601-formatted date?
+"Large data" work flows using pand.
+What's the difference between lists and tuples?
 How can I print literal curly-brace characters in python string and also use .format on it?
 What is the best way to compare floats for almost-equality in Python?
-Find unique rows in numpy.array
+Find unique rows in numpy.arr.
 What are the differences between type() and isinstance()?
-Create a dictionary with list comprehension in Python
+Create a dictionary with list comprehension in Pyth.
 How to determine the encoding of text?
-Truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()
-What is the python &quot;with&quot; statement designed for?
+Truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all.
+What is the python "with" statement designed for?
 How do you change the size of figures drawn with matplotlib?
 Lazy Method for Reading Big File in Python?
-IndentationError: unindent does not match any outer indentation level
 Are a WSGI server and HTTP server required to serve a Flask app?
-Flask view raises TypeError: &#39;bool&#39; object is not callable
-Search and replace a line in a file in Python
+Flask view raises TypeError: 'bool' object is not callab.
+Search and replace a line in a file in Pyth.
+IndentationError: unindent does not match any outer indentation lev.
 Why can a function modify some arguments as perceived by the caller, but not others?
-Python class inherits object
+How do I put a variable inside a string?
+Python class inherits obje.
 What __init__ and self do on Python?
 Tensorflow: how to save/restore a model?
-Use &#39;import module&#39; or &#39;from module import&#39;?
+Use 'import module' or 'from module import'?
 Why dict.get(key) instead of dict[key]?
-What does &quot;SyntaxError: Missing parentheses in call to &#39;print&#39;&quot; mean in Python?
-Actual meaning of &#39;shell=True&#39; in subprocess
-How do I put a variable inside a string?
-Parsing XML with namespace in Python via &#39;ElementTree&#39;
-Interactively validating Entry widget content in tkinter
+What does "SyntaxError: Missing parentheses in call to 'print'" mean in Python?
+Actual meaning of 'shell=True' in subproce.
+Parsing XML with namespace in Python via 'ElementTre.
+Interactively validating Entry widget content in tkint.
 Calling C/C++ from Python?
-Printing Lists as Tabular Data
-Selenium &quot;selenium.common.exceptions.NoSuchElementException&quot; when using Chrome
+Printing Lists as Tabular Da.
+Selenium "selenium.common.exceptions.NoSuchElementException" when using Chro.
 How do I copy a file in Python?
 How to sort (list/tuple) of lists/tuples by the element at a given index?
-Selenium using Python - Geckodriver executable needs to be in PATH
+Selenium using Python - Geckodriver executable needs to be in PA.
 How to break out of multiple loops in Python?
-Not able to install Python packages [SSL: TLSV1_ALERT_PROTOCOL_VERSION]
+Not able to install Python packages [SSL: TLSV1_ALERT_PROTOCOL_VERSIO.
 How do I use subprocess.Popen to connect multiple processes by pipes?
 Which Python memory profiler is recommended?
 What does the star operator mean?
 How to randomly select an item from a list?
 Why is __init__() always called after __new__()?
 Dealing with multiple Python versions and PIP?
-Generator Expressions vs. List Comprehension
-How to copy a dictionary and only edit the copy
-grouping rows in list in pandas groupby
+Generator Expressions vs. List Comprehensi.
+How to copy a dictionary and only edit the co.
+grouping rows in list in pandas group.
 Does Python support short-circuiting?
 What is the best way to remove accents in a Python unicode string?
-Pandas conditional creation of a series/dataframe column
-Concatenate item in list to strings
+Pandas conditional creation of a series/dataframe colu.
+Concatenate item in list to strin.
 What is the purpose of the return statement?
-Why does &quot;return list.sort()&quot; return None, not the list?
+Why does "return list.sort()" return None, not the list?
 How to find all occurrences of an element in a list?
 Does pandas iterrows have performance issues?
-Build a Basic Python Iterator
+Build a Basic Python Iterat.
 Getting key with maximum value in dictionary?
 Transpose/Unzip Function (inverse of zip)?
 How to replace multiple substrings of a string?
-A weighted version of random.choice
-Creating a singleton in Python
-How to read a large file, line by line, in Python
+A weighted version of random.choi.
+Creating a singleton in Pyth.
+How to read a large file, line by line, in Pyth.
 What is the global interpreter lock (GIL) in CPython?
-How to fix &quot;Attempted relative import in non-package&quot; even with __init__.py
-CSV file written with Python has blank lines between each row
+How to fix "Attempted relative import in non-package" even with __init__..
+CSV file written with Python has blank lines between each r.
 Is it Pythonic to use list comprehensions for just side effects?
 How to get line count cheaply in Python?
-How to define a two-dimensional array in Python
-Relative imports in Python 3
+How to define a two-dimensional array in Pyth.
+Relative imports in Python.
 What is memoization and how can I use it in Python?
 Can scrapy be used to scrape dynamic content from websites that are using AJAX?
-Using module &#39;subprocess&#39; with timeout
-&quot;pip install unroll&quot;: &quot;python setup.py egg_info&quot; failed with error code 1
+Using module 'subprocess' with timeo.
+"pip install unroll": "python setup.py egg_info" failed with error code.
+Sorting list based on values from another list?
 How to pass arguments to a Button command in Tkinter?
 Python regex find all overlapping matches?
-Modifying list while iterating
-Hidden features of Python
-Get key by value in dictionary
-Configure Flask dev server to be visible across the network
-Sorting list based on values from another list?
+Modifying list while iterati.
+Hidden features of Pyth.
+Get key by value in dictiona.
+Configure Flask dev server to be visible across the netwo.
 Does Python have an ordered set?
-Numpy: cartesian product of x and y array points into single array of 2D points
+Numpy: cartesian product of x and y array points into single array of 2D poin.
 What is Truthy and Falsy? How is it different from True and False?
-How to get file creation &amp; modification date/times in Python?
-Keyboard input with timeout in Python
-Meaning of @classmethod and @staticmethod for beginner?
 Usage of __slots__?
+How to get file creation & modification date/times in Python?
+Keyboard input with timeout in Pyth.
+Meaning of @classmethod and @staticmethod for beginner?
 Can someone explain __all__ in Python?
 What are the advantages of NumPy over regular Python lists?
 How to find all occurrences of a substring?
-Why is &quot;except: pass&quot; a bad programming practice?
+Why is "except: pass" a bad programming practice?
 Why does += behave unexpectedly on lists?
-Javascript equivalent of Python&#39;s zip function
+Javascript equivalent of Python's zip functi.
 How do I get a Cron like scheduler in Python?
 What is monkey patching?
-Matplotlib 2 Subplots, 1 Colorbar
-Using python&#39;s eval() vs. ast.literal_eval()?
-Passing HTML to template using Flask/Jinja2
-What&#39;s the canonical way to check for type in Python?
-Remove specific characters from a string in Python
+Matplotlib 2 Subplots, 1 Colorb.
+Using python's eval() vs. ast.literal_eval()?
+Passing HTML to template using Flask/Jinj.
+What's the canonical way to check for type in Python?
+Remove specific characters from a string in Pyth.
