@@ -1,0 +1,100 @@
+Why is volatile not considered useful in multithreaded C or C++ programming?
+Correct format specifier to print pointer or address?
+How to initialize a struct in accordance with C programming language standards
+How do I concatenate const/literal strings in C?
+C: differences between char pointer and array
+How do malloc() and free() work?
+Alternative (K&amp;R) C syntax for function declaration versus prototypes
+What is the type of string literals in C and C++?
+The need for parentheses in macros in C
+How to generate a random integer number from within a range
+Parameter evaluation order before a function calling in C
+Passing by reference in C
+Array index out of bound in C
+Why do function pointer definitions work with any number of ampersands &#39;&amp;&#39; or asterisks &#39;*&#39;?
+strdup() - what does it do in C?
+Why does GCC use multiplication by a strange number in implementing integer division?
+Best practices for circular shift (rotate) operations in C++
+Why should we typedef a struct so often in C?
+#define macro for debug printing in C?
+Preventing console window from closing on Visual Studio C/C++ Console application
+Can num++ be atomic for &#39;int num&#39;?
+What platforms have something other than 8-bit char?
+Why is integer assignment on a naturally aligned variable atomic on x86?
+Dynamic memory access only works inside function
+How to use sscanf in loops?
+casting void** to 2D array of int - C
+What does sizeof(&amp;array) return?
+How to avoid pressing enter with getchar()
+What is the effect of trailing white space in a scanf() format string?
+Scanf skips every other while loop in C
+How to open, read, and write from serial port in C?
+Finding current executable&#39;s path without /proc/self/exe
+How to generate a random int in C?
+How do you reverse a string in place in C or C++?
+How do I trim leading/trailing whitespace in a standard way?
+Exotic architectures the standards committees care about
+Why is it considered a bad practice to omit curly braces?
+Why malloc+memset is slower than calloc?
+Where are static variables stored in C and C++?
+Do you use the TR 24731 &#39;safe&#39; functions?
+How to convert a string to integer in C?
+Array size at run time without dynamic allocation is allowed?
+Implicit type promotion rules
+What&#39;s the correct way to use printf to print a size_t?
+How can I get a file&#39;s size in C?
+Why do you have to link the math library in C?
+Pointer arithmetic for void pointer in C
+Rounding Number to 2 Decimal Places in C
+Why are C character literals ints instead of chars?
+Why does pow(n,2) return 24 when n=5, with my compiler and OS?
+What REALLY happens when you don&#39;t free after malloc?
+Signed to unsigned conversion in C - is it always safe?
+Get CPU cycle count?
+Is 2d array a double pointer?
+How to correctly assign a new string value?
+Display an array of color in C
+How does free know how much to free?
+Why is unsigned integer overflow defined behavior but signed integer overflow isn&#39;t?
+Why bit endianness is an issue in bitfields?
+Are there machines, where sizeof(char) != 1, or at least CHAR_BIT &gt; 8?
+How to debug using gdb?
+Why shouldn&#39;t I use atoi()?
+How do pointer to pointers work in C?
+How do you get assembler output from C/C++ source in gcc?
+How do you determine the size of a file in C?
+Is type-punning through a union unspecified in C99, and has it become specified in C11?
+Can x86&#39;s MOV really be &quot;free&quot;? Why can&#39;t I reproduce this at all?
+Why is the use of alloca() not considered good practice?
+Size of character (&#39;a&#39;) in C/C++
+What does the question mark and the colon (?: ternary operator) mean in objective-c?
+No out of bounds error
+Typedef function pointer?
+How do I see a C/C++ source file after preprocessing in Visual Studio?
+C/C++ maximum stack size of program
+Disadvantages of scanf
+What happens if I define a 0-size array in C/C++?
+How can I run an external program from C and parse its output?
+Simple C scanf does not work?
+Enhanced REP MOVSB for memcpy
+Floating point comparison
+What does a colon in a struct declaration mean, such as :1, :7, :16, or :32?
+Difference between malloc and calloc?
+What is size_t in C?
+What is the difference between char * const and const char *?
+#pragma pack effect
+Timer function to provide time in nano seconds using C++
+Is gcc&#39;s __attribute__((packed)) / #pragma pack unsafe?
+Python C program subprocess hangs at &quot;for line in iter&quot;
+C sizeof a passed array
+Why is volatile needed in C?
+What&#39;s the best way to check if a file exists in C?
+Convert char to int in C and C++
+Arrow operator (-&gt;) usage in C
+How to achieve function overloading in C?
+Is it better to use C void arguments &quot;void foo(void)&quot; or not &quot;void foo()&quot;?
+What is the fastest/most efficient way to find the highest set bit (msb) in an integer in C?
+How to pass 2D array (matrix) in a function in C?
+Setup OpenCV-2.3 for Visual Studio 2010
+Shuffle array in C
+What is the difference between &#39;asm&#39;, &#39;__asm&#39; and &#39;__asm__&#39;?
