@@ -13,7 +13,7 @@ A PyQT5 desktop Application That analyse user's programming query and fetch the 
 ```pip install pandas```  
 3) ibm_watson_cloud_sdk
 ```pip install --upgrade ibm-watson```  
-4) PyQt5 <br>
+4) PyQt5
 ```pip install pyQt5```  
 5) pyQtWebEngine
 ```pip install PyQtWebEngine```  
