@@ -4,6 +4,8 @@ A PyQT5 desktop Application That analyse user's programming query and fetch the 
 ### Quick Installation:
 >>> Inside the repositry type:
 ```pip install -r requirements.txt```
+ and than to download Spacy English Model(11mb) type:
+```python -m spacy download en_core_web_sm``` 
 ## --------------------------------------------------------------
 >>> If you wish to install them the long way:
 1) Python 3.6
