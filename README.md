@@ -41,7 +41,7 @@ For Example:
 
 You can see all the top answers by next and previous button provided in the gui:
 
-![Alt Text](images/Capture4.PNG)
+![Alt Text](images/Capture4.png)
 
 You can also see the command prompt to see what is happening in the background:
 
