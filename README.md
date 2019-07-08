@@ -39,6 +39,10 @@ For Example:
 
 ![Alt Text](images/Capture2.PNG)
 
+You can see all the top answers by next and previous button provided in the gui:
+
+![Alt Text](images/Capture4.PNG)
+
 You can also see the command prompt to see what is happening in the background:
 
 ![Alt Text](images/Capture3.PNG)
