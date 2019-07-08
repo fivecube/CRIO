@@ -1,100 +1,100 @@
+Determine whether an array contains a value.
+Take a screenshot of a webpage with JavaScript?
+PhantomJS; click an element.
+Understanding unique keys for array children in React.js.
+What do parentheses surrounding an object/function/class declaration mean?
 How may I sort a list alphabetically using jQuery?
-Communication between tabs or windo.
+Checking if a key exists in a JavaScript object?
 How can I convert a string to boolean in JavaScript?
 How to get all properties values of a Javascript Object (without knowing the keys)?
 Scroll to bottom of div?
-Understanding unique keys for array children in React..
-Take a screenshot of a webpage with JavaScript?
-How to use javascript variables in jquery selecto.
-Javascript equivalent of Python's zip functi.
-How to pass parameters rendered from backend to angular2 bootstrap meth.
-Set a default parameter value for a JavaScript functi.
+Parse an HTML string with JS.
+How to use javascript variables in jquery selectors.
+Javascript equivalent of Python's zip function.
+How to pass parameters rendered from backend to angular2 bootstrap method.
+Set a default parameter value for a JavaScript function.
 When should I use curly braces for ES6 import?
 What is JavaScript garbage collection?
+Define global variable in a JavaScript function.
 How to decode HTML entities using jQuery?
-Parse an HTML string with .
-How to send an email from JavaScri.
 How to call a JavaScript function from PHP?
-Checking if a key exists in a JavaScript object?
-Detecting an "invalid date" Date instance in JavaScri.
+Detecting an "invalid date" Date instance in JavaScript.
 Playing audio with Javascript?
-Define global variable in a JavaScript functi.
-Pass Variables by Reference in Javascri.
+How to insert an element after another element in JavaScript without using a library?
+How to create a <style> tag with Javascript?
+Pass Variables by Reference in Javascript.
 How can I trigger an onchange event manually?
 How to stop event propagation with inline onclick attribute?
 How do you read CSS rule values with JavaScript?
-Controller not a function, got undefined, while defining controllers global.
-How to define method in javascript on Array.prototype and Object.prototype so that it doesn't appear in for in lo.
-What is the best way to add options to a select from as a JS object with jQuery?
-Smooth scrolling when clicking an anchor li.
-What is lexical scope?
-Check if a user has scrolled to the bott.
-AngularJS: How can I pass variables between controllers?
-JSON.stringify, avoid TypeError: Converting circular structure to JS.
-How to create a <style> tag with Javascript?
-No visible cause for "Unexpected token ILLEGA.
-How to get hex color value rather than RGB value?
-Weird behavior with objects & console.l.
-offsetting an html anchor to adjust for fixed head.
+Controller not a function, got undefined, while defining controllers globally.
+Weird behavior with objects & console.log.
 What is the difference between null and undefined in JavaScript?
+What is the best way to add options to a select from as a JS object with jQuery?
+Smooth scrolling when clicking an anchor link.
+What is lexical scope?
+Check if a user has scrolled to the bottom.
+AngularJS: How can I pass variables between controllers?
+JSON.stringify, avoid TypeError: Converting circular structure to JSON.
+No visible cause for "Unexpected token ILLEGAL".
+How to get hex color value rather than RGB value?
+How can you programmatically tell an HTML SELECT to drop down (for example, due to mouseover)?
+offsetting an html anchor to adjust for fixed header.
 How to export JavaScript array info to csv (on client side)?
 Use of .apply() with 'new' operator. Is this possible?
-How to insert an element after another element in JavaScript without using a library?
 How to save an HTML5 Canvas as an image on a server?
 jQuery Validate Plugin - How to create a simple custom rule?
 Browser detection in JavaScript?
-Large numbers erroneously rounded in JavaScri.
+Large numbers erroneously rounded in JavaScript.
 How to check empty/undefined/null string in JavaScript?
 Why do you need to invoke an anonymous function on the same line?
-Trigger a button click with JavaScript on the Enter key in a text b.
+Trigger a button click with JavaScript on the Enter key in a text box.
 How to retrieve POST query parameters?
-Convert SVG to image (JPEG, PNG, etc.) in the brows.
+Convert SVG to image (JPEG, PNG, etc.) in the browser.
 How can you detect the version of a browser?
-Creating a new DOM element from an HTML string using built-in DOM methods or Prototy.
+Creating a new DOM element from an HTML string using built-in DOM methods or Prototype.
 How does this JavaScript/jQuery syntax work: (function( window, undefined ) { })(window)?
-How can you programmatically tell an HTML SELECT to drop down (for example, due to mouseover)?
-Access Java / Servlet / JSP / JSTL / EL variables in JavaScri.
+How to add number of days to today's date?
+How to group an array of objects by key.
+How to use arrow functions (public class fields) as class methods?
+Access Java / Servlet / JSP / JSTL / EL variables in JavaScript.
 Is there a standard function to check for null, undefined, or blank variables in JavaScript?
 How can I select an element with multiple classes in jQuery?
-How to convert decimal to hexadecimal in JavaScri.
+How to convert decimal to hexadecimal in JavaScript.
+Can a website detect when you are using selenium with chromedriver?
 What is console.log?
 How do I get the coordinates of a mouse click on a canvas element?
-How to add number of days to today's date?
-How to group an array of objects by k.
-How to write denormalized data in Fireba.
-How do I test for an empty JavaScript object?
-Can a website detect when you are using selenium with chromedriver?
-How to get the data-id attribute?
-JavaScript implementation of Gz.
 How do I parse a URL into hostname and path in javascript?
+How to write denormalized data in Firebase.
+How do I test for an empty JavaScript object?
+How to get the data-id attribute?
+JavaScript implementation of Gzip.
 Can we omit parentheses when creating an object using the "new" operator?
-Cartesian product of multiple arrays in JavaScri.
-How to use arrow functions (public class fields) as class methods?
+Cartesian product of multiple arrays in JavaScript.
 How to delay the .keyup() handler until the user stops typing?
-Remove accents/diacritics in a string in JavaScri.
+Remove accents/diacritics in a string in JavaScript.
 How to connect to SQL Server database from JavaScript in the browser?
-Convert Array to Obje.
-Get the real width and height of an image with JavaScript? (in Safari/Chrom.
+Convert Array to Object.
+Get the real width and height of an image with JavaScript? (in Safari/Chrome).
 What does 'var that = this;' mean in JavaScript?
+Resolve promises one after another (i.e. in sequence)?
 How to create an object property from a variable value in JavaScript?
 In what situations would AJAX long/short polling be preferred over HTML5 WebSockets?
 jQuery $(document).ready and UpdatePanels?
 How to list the properties of a JavaScript object?
 How do I check that a number is float or integer?
 How to identify if a webpage is being loaded inside an iframe or directly into the browser window?
-Fastest way to flatten / un-flatten nested JSON objec.
-Resolve promises one after another (i.e. in sequence)?
-How to Detect Browser Back Button event - Cross Brows.
-JavaScript inheritance and the constructor proper.
-JavaScript raises SyntaxError with data rendered in Jinja templa.
-Check if checkbox is checked with jQue.
-Height equal to dynamic width (CSS fluid layou.
-JavaScript window resize eve.
-How do I disable right click on my web page?
-Get element from within an iFra.
+Fastest way to flatten / un-flatten nested JSON objects.
+How to Detect Browser Back Button event - Cross Browser.
 How do I check if file exists in jQuery or pure JavaScript?
-Get cursor position (in characters) within a text Input fie.
 Is it possible to write data to file using only JavaScript?
+JavaScript inheritance and the constructor property.
+JavaScript raises SyntaxError with data rendered in Jinja template.
+Check if checkbox is checked with jQuery.
+Height equal to dynamic width (CSS fluid layout).
+JavaScript window resize event.
+How do I disable right click on my web page?
+Get element from within an iFrame.
 How to launch html using Chrome at "--allow-file-access-from-files" mode?
 How can I check whether a radio button is selected with JavaScript?
-Removing nested promis.
+Removing nested promises.
+Backslashes - Regular Expression - Javascript.

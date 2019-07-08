@@ -1,0 +1,100 @@
+Where do I place a C library for use on Windows, Mac, and Linux.
+Where is the IID of IVpnManagementAgent defined.
+Where does Rails.logger.debug go when called from cron task?
+Where is Xlib's Colormap defined?
+Where do I find the current C or C++ standard documents?
+Where can I find the implementation of xcb library?
+Where is executable file after compiling a c program in ubuntu?
+How to fix error where a node in a tree is not being printed.
+Is there any case where the C static keyword should or could be used in header files for variables?
+Where are arrays stored in memory?
+Where does 1.0f and 1.0 makes difference?
+Where does gcc look for C and C++ header files?
+Create string in C where first character is string length.
+How are Pointer Expressions in C are solved? Ex: ((4* (-(*p2)))/(*p1)+10 where *p1=12 ,*p2=4.
+Can anyone show an example where this precedence matters?
+Where does initialized auto variables (local variables) placed in object file?
+Fuction is printing my char far away from where it's supposed to be.
+What will be the output of printf("%s",*&*str); where in str is a pointer?
+where to read cmd input like "myapp.exe input" or "myapp.exe -?" (i using cmd).
+C comparison 'x < 0' where type of 'x' is arbitrary, i.e. might be unsigned.
+Where is const-promotion defined.
+Why doesn't the adress where the pointer points change.
+Where do we use .i files and how do we generate them?
+Where does linux store my syslog?
+where can I find the reference of gcc extended attribute.
+Trouble in C with string array where elements are repeated.
+Where is PATH_MAX defined in Linux?
+Where to invoke VIPS_INIT in a C shared library.
+Where is my "stdio.h" in Mac?
+How to free memory allocated by external C libraries interfacing with Cython module where the memory is ultimately returned to a Python process?
+how to specify gcc manually where run configure command.
+where the global and local variables are stored in memory in C.
+I have an assignment where I have to take in a sequence of nucleiotides three at a time which are separated by spaces. eg ACT GAT CCT etc.
+Where is the SIGSEGV error in my code and how to rectify it?
+How to get weighted average where latest value is weighted twice as all previous?
+i don't quite understand the syntax where it adds the sum of 5 digits input.
+How to delete rows in sqlite with a WHERE clause that references multiple tables?
+Does a struct declaration live after the scope where it was declared, if the scope was a different struct definition?
+Is there any IDE where I can debug C and Python codes simultaneously?
+why error in code where i am trying to display the files present in a directory.
+Static array - where should I define it?
+Where is the bug causing a heap-buffer-overflow?
+Trying to create a guess my letter code. How do I incorporate the case where the input char from the user equals my letter?
+Not able to detect integer values in where clause.
+Where to use volatile?
+Where is C multiplication result put when calling from GNU AS?
+When/where are local arrays allocated?
+My program which creates a abbreviation of an char array, does not print anything. Where is my mistake?
+Needed: Wrappable Counter where < and > do "the right thing".
+Where does python look for a dll opened by ctypes.cdll.<name> on windows?
+Is there ever a case where a still reachable memory leak is an issue?
+Where is the itoa function in Linux?
+Is there anyway where I can compare structures of struct made using pointers?
+Asterisk before an address and push instructions, where is it being pushed to?
+Where should I execute code that contains #include <xdevcfg.h> and xil_printf?
+C seg fault - where/what?
+How do I use the value of a variable in a function else where?
+How to know from where to get header files used in a c program?
+Where is the code for recycling `rbinom` inputs?
+Where do I specify the filename to link to in FFI for Rust?
+For my C code, where I am reading a file and sorting it is giving me garbage outputs. Why?
+Where do I store dynamically allocated memory on a platform device (without using globals)?
+Where to document functions in C or C++?
+How to tell where the symbols are defined when linking C code.
+there is mistake somewhere,i can't find it. code is work but it s wrong result. i want to fix but i don't know where is it. pls help me.
+Where does the pointer "char **strData" point to?
+No files created using fopen(); why, or where are they?
+Linux Kernel Where to lock and unlock semaphores?
+Any platform where Fortran `double precision` is different from C `double`?
+Fast multiplication of k x k boolean matrices, where 8 <= k <= 16.
+Where has the first element of my array come from, and what is it?
+How to work out the index of the array where bits should be packed, in column major form when packing a matrix of size n*n.
+Detecting EOF with fgets() where filesteam is stdin.
+How to Debug where microcontroller is stuck?
+Where should I install webkit's plugin?
+Where is ssize_t defined in linux?
+Sqlite giving same output and not considering where clause order.
+Where does the DMA store ADC values in STM32?
+Where is my error? (Converting number bases).
+Strange code behavior in C while using pointers where commenting a certain unrelated section of the code affects the output.
+Where should I define a structure in Visual studio in C.
+Unable to figure out where the race condition occuring In OPENMP program in c.
+Where to find "gmp.h"?
+Where does `OpaqueJSValue`in `JavaScriptCore` come from?
+Where are pointers when we disassemble with gdb.
+Where can I declare global variable in c program , whether in header or source file.
+Where is i2c_master_recv 's value coming from?
+Where are constant variables stored in C?
+Where do I find the header file for GL_FRAMEBUFFER_EXT?
+Function seems to change where pointer is pointing to.
+Where does the function fopen() in C creates the file, opened in write mode?
+How to make a looping in C where theres a step value which is entered by the use?
+Freeing char pointer erases it from where I am saving it.
+What is __brkval for AVR, and where is it defined?
+Use of setreuid() where _POSIX_SAVED_IDS is not set.
+Where are static values stored in assembly.
+How to let gcc compiler know where a certain file is.
+Where can I find the implementation for atoi?
+How do I free dynamically allocated memory where each index is also dynamically allocated?
+Where are Enum stored?

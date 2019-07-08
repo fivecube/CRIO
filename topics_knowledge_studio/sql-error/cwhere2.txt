@@ -1,0 +1,100 @@
+Where are static variables stored in C and C++?
+Optimize profit of a linear matrix where the user can either skip 1 or 2 cells.
+How to find and overwrite where the syscall handler is set in cortex-a8.
+Where are the can.h and can/raw.h header files in Cygwin?
+Where can I find the source code Apache uses to process .htaccess?
+Why a header file is added in the source code where the function is ALREADY defined?
+Generate Unit Tests from a scenario table where inputs and expected results are specified.
+Where can I find the full syntax of C that is necessary to implement a compiler?
+Where can I find and download netdb.h?
+Where are the C headers in MacOS Mojave?
+Where to put the star in C and C++ pointer notation.
+Where can i find the Linux counterparts for the Windows Console API functions?
+Where is the usage of (type-name) for C language defined in the language specification?
+This is C code for evaluation of a postfix expression. I have added comments to see where I am going wrong.
+Where is the standard C library on Mac OS X?
+GStreamer GstVideoTestSrcPattern enum - where is it?
+Segmentation error but I can't find where.
+How to add extra C language library programing enviorment in the docker where chaincode is executing?
+Where do I find the libvlc to include it on Ubuntu?
+Interpreting where values reside on a Linux 32-bit process address space.
+Where should I put CMakeLists.txt files?
+Getting a double free where only one free function is writtern.
+Where can I find the C89/C90 standards in PDF format?
+I'm supposed to read a text from a .txt and display it in the console but my code is not working,where is my mistake?
+Where will the address of pointers be stored in memory?
+Where can I learn about optimal math in C on a micro-controller like, say, ARMv7?
+Where to learn Hardware Programming?
+Where does local const variable will get stored?
+Where do I find the source code for execve()?
+Where are DECLARE_PER_CPU variables stored in kernel.
+Where to add -g flag in vs code for debugging.
+Where will the Initialized data segment values are stored before run time?
+isnt everything where it should be, why the segmentation fault?
+Macro definitions for headers, where to put them?
+Where data can be buffered on rfcomm connection?
+Where are global variables located in the elf file.
+understanding why`execvp` works where `execv` fails.
+Where does my Segmentation fault in C (dynamic memory allocation) comes from?
+Where is libc.dylib located in macos Maverick 10.13.6.
+How to find where the stack ends in C.
+How to use `strtoul` to parse string where zero may be valid?
+How can we produce the number x.y, where x and y are the two arguments or a function?
+How to printf row where I found largest number in 2d array?
+run c program - stdio.h where do i get it?
+Where pointers without initialisation points?
+How to use AC_CONFIG_SUBDIR to package C and Fortran libraries together, where C depends on Fortran library?
+C Struct where the elements cross the byte boundry and get placed in the next byte.
+Creating a function where I clear every position in a 2-D array and making it the default '_'character cell.
+Whenever I enter 4.2 in this code, the value of nm is 19, where 20 is expected.
+How to print 10 values per line in C where the values are in decreasing order and using only while loops and if-else-statements?
+Where to join in multithreaded directory search?
+About the hexadecimal result of a-b, where each is a pointer to an array.
+Write to a file, where the output is tabbed instead of spaced.
+Where the following objects are stored in memory?
+Are there any cases where this particular sorting algorithm would not work?
+CS50 - LOAD - Get random character from no where when trying to execute load.
+Writer/Reader where a reader has to read 2 times in a row.
+Where do local variables get stored at compile time?
+FUSE lib passthrough.c example. Where is it mirrors my / exactly?
+Where do sequence points come from?
+Consider the source code below, where N is a constant declared with #define.
+Where is visual studio 2017 remote gdb debugger?
+How can I convert BASIC into C? Is there an equivalent website where I can compare BASIC and C?
+Use gdb to find where program stuck.
+Is there a way to solve for an unknown exponent in c where the base is always 2 without math.h?
+How I create Dictionary where my values are Queue in C?
+Where you can and cannot declare new variables in C?
+In linux where define the __i386__ or __x86_64__?
+Where to put libwebsocket.h file.
+Where does reference arr stored of arr = [1, 2, 3]?
+How to parse this input from user to figure where to print the results in C?
+Where am I addressing memory I do not own? (char array).
+How to count number that contains 3 between 1 and N where N is the given input?
+Linux Kernel module: printk message not where I expect to be in the buffer log.
+Where does the L1 data cache missing come from in blocked matrix mul on arm?
+strchr() finding '\n' where there seemingly is none.
+where to assign value for global variable, initialization or in the function.
+Where is ptrdiff_t defined in C?
+Where do C and POSIX specify that standard headers have to be included at file scope?
+How to print the path to the place where program was compiled in c.
+MAC 10.7 : Where is the gl.h file?
+C - where is constant located in a process's memory?
+In C programming; Given a string, compute recursively (no loops) a new string where all appearances of "pi" have been replaced by "3.14"..
+Where does the GCC compiler assign the location of the static Function in memory?
+Is there a function in c where I can copy specific parts of a char array.
+What exatly are char16_t and char32_t, and where can I find them?
+Where are the mistakes in my own sqrt() function?
+How to compile C extension for Python where C function uses LAPACK library?
+free 2d array(matrix) of struct named "cell" where each of them as member of string(char*).
+Get path of executable (compiled c program) and path from where it is called, in linux.
+Where can I find source or algorithm of Python's hash() function?
+SSE operations to implement a loop over a 2D array where each output depends on the 3x3 square that contains it (Game of Life).
+How do I tell Visual Studio Code where my include directories are for a C project?
+Count number of words in input line. Where word is just consistency, where first character is only letter.
+returning 0 if strings are same in c, where is happening in the code?
+Where can I download the source for cron utility?
+Where are compiled functions stored?
+How to let valgrind to report "where" a "definitely lost" happens.
+Determining where header file is found.
+Where does the compound/string literals get stored in the memory?

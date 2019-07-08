@@ -1,0 +1,100 @@
+How can I prevent SQL injection in PHP?
+When to use single quotes, double quotes, and backticks in MySQL.
+SQL injection that gets around mysql_real_escape_string().
+SQL select only rows with max value on a column.
+Simulating group_concat MySQL function in Microsoft SQL Server 2005?
+Cleansing User Passwords.
+Select first row in each GROUP BY group?
+How to concatenate text from multiple rows into a single text string in SQL server?
+SQL Server dynamic PIVOT query?
+Retrieving the last record in each group - MySQL.
+Parameterize an SQL IN clause.
+What is the difference between "INNER JOIN" and "OUTER JOIN"?
+How do I split a string so I can access item x?
+What is SQL injection?
+Fetch the row which has the Max value for a column.
+MySQL pivot row into dynamic number of columns.
+How to create a MySQL hierarchical recursive query.
+Efficiently convert rows to columns in sql server.
+How to do a FULL OUTER JOIN in MySQL?
+Using LIMIT within GROUP BY to get N results per group?
+Convert Rows to columns using 'Pivot' in SQL Server.
+INNER JOIN ON vs WHERE clause.
+ROW_NUMBER() in MySQL.
+What are the options for storing hierarchical data in a relational database?
+PostgreSQL Crosstab Query.
+Explicit vs implicit SQL joins.
+Why do we always prefer using parameters in SQL statements?
+Get top n records for each group of grouped results.
+How do I UPDATE from a SELECT in SQL Server?
+How can I SELECT rows with MAX(Column value), DISTINCT by another column in SQL?
+What is the most efficient/elegant way to parse a flat table into a tree?
+Insert results of a stored procedure into a temporary table.
+Calculate a Running Total in SQL Server.
+What's the difference between INNER JOIN, LEFT JOIN, RIGHT JOIN and FULL JOIN?
+MySQL - Rows to Columns.
+ORA-00979 not a group by expression.
+Can I concatenate multiple MySQL rows into one field?
+How to use GROUP BY to concatenate strings in SQL Server?
+T-SQL split string.
+How to 'insert if not exists' in MySQL?
+SQL query return data from multiple tables.
+Update statement with inner join on Oracle.
+Rank function in MySQL.
+How do I obtain a Query Execution Plan?
+Why is SELECT * considered harmful?
+How can you represent inheritance in a database?
+What are good ways to prevent SQL injection?
+Remove duplicate rows in MySQL.
+How do I create a parameterized SQL query? Why Should I?
+Join vs. sub-query.
+How to apply bindValue method in LIMIT clause?
+Insert, on duplicate update in PostgreSQL?
+Insert into a MySQL table or update if exists.
+MySQL select 10 random rows from 600K rows fast.
+How to filter SQL results in a has-many-through relation.
+Fastest Way of Inserting in Entity Framework.
+How to create id with AUTO_INCREMENT on Oracle?
+How do I limit the number of rows returned by an Oracle query after ordering?
+Count(*) vs Count(1) - SQL Server.
+SQL JOIN and different types of JOINs.
+Error related to only_full_group_by when executing a query in MySql.
+How can prepared statements protect from SQL injection attacks?
+Is it possible to insert multiple rows at a time in an SQLite database?
+How does database indexing work?
+Insert into ... values ( SELECT ... FROM ... ).
+Return row only if value doesn't exist.
+How to select the first row of each group?
+How to query MongoDB with "like"?
+generate days from date range.
+SQL Query to concatenate column values from multiple rows in Oracle.
+How to get the insert ID in JDBC?
+Can I parameterize the table name in a prepared statement?
+How to properly set up a PDO connection.
+Identity increment is jumping in SQL Server database.
+How to use variables in SQL statement in Python?
+SQL split values to multiple rows.
+Delete all Duplicate Rows except for One in MySQL?
+How to request a random row in SQL?
+Split function equivalent in T-SQL?
+What is the reason not to use select *?
+MySQL how to fill missing dates in range?
+Best way to get identity of inserted row?
+How to return only the Date from a SQL Server DateTime datatype.
+Get top 1 row of each group.
+Get records with max value for each group of grouped SQL results.
+How can I add user-supplied input to an SQL statement?
+How can I do an UPDATE statement with JOIN in SQL?
+How do I escape a single quote in SQL Server?
+Commands out of sync; you can't run this command now.
+NOT IN vs NOT EXISTS.
+What is the difference between UNION and UNION ALL?
+Select rows which are not present in other table.
+Simple way to transpose columns and rows in SQL?
+How to reset AUTO_INCREMENT in MySQL?
+Adding an identity to an existing column.
+What is the difference between LATERAL and a subquery in PostgreSQL?
+Managing and debugging SQL queries in MS Access.
+SQL join: where clause vs. on clause.
+Finding duplicate values in a SQL table.
+Are PostgreSQL column names case-sensitive?

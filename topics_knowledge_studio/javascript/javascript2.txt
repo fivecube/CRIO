@@ -1,100 +1,100 @@
 How to get client's IP address using JavaScript?
-How to get the difference between two arrays in Javascript?
-Using HTML5/Canvas/JavaScript to take in-browser screensho.
-XmlHttpRequest error: Origin null is not allowed by Access-Control-Allow-Orig.
-Pass a PHP string to a JavaScript variable (and escape newline.
-Is there an "exists" function for jQuery?
-Javascript by reference vs. by val.
+What characters are valid for JavaScript variable names?
+How to convert image into base64 string using javascript.
 How to filter object array based on attributes?
-Direct vs. Delegated - jQuery .on.
-Difference between == and === in JavaScri.
+Using HTML5/Canvas/JavaScript to take in-browser screenshots.
+Pass a PHP string to a JavaScript variable (and escape newlines).
+Is there an "exists" function for jQuery?
+Difference between == and === in JavaScript.
+Javascript by reference vs. by value.
+How do I get the number of days between two dates in JavaScript?
+Direct vs. Delegated - jQuery .on().
 What is the purpose of a self executing function in javascript?
+Why is extending native objects a bad practice?
 How to trigger event in JavaScript?
 How do I add a delay in a JavaScript loop?
 Is it possible to simulate key press events programmatically?
-How do I get the number of days between two dates in JavaScript?
+JavaScript equivalent to printf/String.Format.
 Why isn't my JavaScript working in JSFiddle?
-JavaScript equivalent to printf/String.Form.
-How do I create and read a value from cookie?
-Why is extending native objects a bad practice?
 HTTP GET request in JavaScript?
-How to sort an array of integers correct.
-Strip HTML from Text JavaScri.
-Send POST data using XMLHttpReque.
-'innerText' works in IE, but not in Firef.
-Remove duplicates from an array of objects in JavaScri.
+How to sort an array of integers correctly.
+How do I create and read a value from cookie?
+Send POST data using XMLHttpRequest.
+Strip HTML from Text JavaScript.
+'innerText' works in IE, but not in Firefox.
+Remove duplicates from an array of objects in JavaScript.
 When to use double or single quotes in JavaScript?
 Convert a string to an integer in JavaScript?
 jQuery Data vs Attr?
-Getting a random value from a JavaScript arr.
+Getting a random value from a JavaScript array.
+Creating a Blob from a base64 string in JavaScript.
 Javascript: Do I need to put this.var for every variable in an object?
-Creating a Blob from a base64 string in JavaScri.
-jQuery: Return data after ajax call succe.
+jQuery: Return data after ajax call success.
 Wait until all jQuery Ajax requests are done?
 How to get full path of selected file on change of <input type=‘file’> using javascript, jquery-ajax?
-What is the reason to use the 'new' keyword at Derived.prototype = new Ba.
+What is the reason to use the 'new' keyword at Derived.prototype = new Base.
+Methods in ES6 objects: using arrow functions.
 setTimeout or setInterval?
 How to disable scrolling temporarily?
 How to set a value to a file input in HTML?
-Javascript function scoping and hoisti.
+Javascript function scoping and hoisting.
 How can I get jQuery to perform a synchronous, rather than asynchronous, Ajax request?
-Get all non-unique values (i.e.: duplicate/more than one occurrence) in an arr.
+Get all non-unique values (i.e.: duplicate/more than one occurrence) in an array.
 Does Javascript pass by reference?
+Sort JavaScript object by key.
+One-liner to take some properties from object in ES 6.
 How do I send a cross-domain POST request via JavaScript?
-Calculate text width with JavaScri.
-Loading cross-domain endpoint with jQuery AJ.
-One-liner to take some properties from object in ES.
-Methods in ES6 objects: using arrow functio.
+Calculate text width with JavaScript.
+Loading cross-domain endpoint with jQuery AJAX.
+Detecting an undefined object property.
 How to replace plain URLs with links?
-Origin is not allowed by Access-Control-Allow-Orig.
-Sort JavaScript object by k.
+Origin is not allowed by Access-Control-Allow-Origin.
 How do I make the first letter of a string uppercase in JavaScript?
-Detecting an undefined object proper.
-Detect when browser receives file downlo.
+Detect when browser receives file download.
 Get image data url in JavaScript?
 How to access object properties containing special characters?
+HTML text input allow only numeric input.
 What does this symbol mean in JavaScript?
-HTML text input allow only numeric inp.
 How can I create a two dimensional array in JavaScript?
+Add days to JavaScript Date.
 How do I split a string, breaking at a particular character?
-Facebook JS SDK's FB.api('/me') method doesn't return the fields i expect in Graph API v2..
+Asynchronous Process inside a javascript for loop.
+Facebook JS SDK's FB.api('/me') method doesn't return the fields i expect in Graph API v2.4+.
 How does data binding work in AngularJS?
-Accessing the web page's HTTP Headers in JavaScri.
-Round to at most 2 decimal places (only if necessar.
-Add days to JavaScript Da.
-How to get image size (height & width) using JavaScript?
-Retrieve the position (X,Y) of an HTML eleme.
+Round to at most 2 decimal places (only if necessary).
+Accessing the web page's HTTP Headers in JavaScript.
 When should I use Arrow functions in ECMAScript 6?
-Javascript + Unicode regex.
-Asynchronous Process inside a javascript for lo.
+How to get image size (height & width) using JavaScript?
+Retrieve the position (X,Y) of an HTML element.
+Short circuit Array.forEach like calling break.
 How to send FormData objects with Ajax-requests in jQuery?
-Short circuit Array.forEach like calling bre.
-Events triggered by dynamically generated element are not captured by event handl.
-jQuery/JavaScript to replace broken imag.
-Updating a Nested Array with Mongo.
-Add table row in jQue.
-Convert a Unix timestamp to time in JavaScri.
+Events triggered by dynamically generated element are not captured by event handler.
+jQuery/JavaScript to replace broken images.
+Javascript + Unicode regexes.
+Updating a Nested Array with MongoDB.
+Add table row in jQuery.
+Convert a Unix timestamp to time in JavaScript.
 How do I enumerate the properties of a JavaScript object?
-Detect changes in the D.
-Unable to access React instance (this) inside event handl.
-javascript function doesn't work when link is click.
+Detect changes in the DOM.
+Unable to access React instance (this) inside event handler.
+Benefits of using `Object.create` for inheritance.
+javascript function doesn't work when link is clicked.
 How to force the browser to reload cached CSS/JS files?
 What is the difference between a function expression vs declaration in JavaScript?
+Download File Using Javascript/jQuery.
+How to prevent buttons from submitting forms.
 Why is using onClick() in HTML a bad practice?
-Serializing to JSON in jQue.
+Serializing to JSON in jQuery.
 How to detect page zoom level in all modern browsers?
-Download File Using Javascript/jQue.
-How to prevent buttons from submitting for.
 How to read a local text file?
-setTimeout in for-loop does not print consecutive valu.
-Benefits of using `Object.create` for inheritan.
-window.close and self.close do not close the window in Chro.
-Convert date to another timezone in JavaScri.
+setTimeout in for-loop does not print consecutive values.
+window.close and self.close do not close the window in Chrome.
+Sorting in JavaScript: Shouldn't returning a boolean be enough for a comparison function?
+Convert date to another timezone in JavaScript.
 How to find event listeners on a DOM node when debugging or from the JavaScript code?
-Deleting array elements in JavaScript - delete vs spli.
-Insert HTML into view from AngularJS controll.
-Selecting text in an element (akin to highlighting with your mous.
+Deleting array elements in JavaScript - delete vs splice.
+Insert HTML into view from AngularJS controller.
+Selecting text in an element (akin to highlighting with your mouse).
 Can jQuery get all CSS styles associated with an element?
-Can't append <script> eleme.
-jQuery AJAX file upload P.
-Resizing an iframe based on conte.
+Can't append <script> element.
+jQuery AJAX file upload PHP.

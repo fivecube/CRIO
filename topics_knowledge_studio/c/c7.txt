@@ -1,100 +1,100 @@
-Are stack variables aligned by the GCC __attribute__((aligned(x)))?
-Combine static librari.
-Can gcc output C code after preprocessing?
-Array-size macro that rejects pointe.
-How to know linux scheduler time slice?
-Why Switch/Case and not If/Else If?
-Where is the C auto keyword used?
-What do R_X86_64_32S and R_X86_64_64 relocation mean?
-Using a C++ class member function as a C callback functi.
-Accessing arrays by index[array] in C and C.
-Can the size of pointers vary between data and function pointers?
-Calculating factorial of large numbers in.
-Why do I need to use type** to point to type*?
-How to test a static functi.
-Return address of local variable in.
-Array Type - Rules for assignment/use as function paramet.
-Segmentation Fault, large arra.
-String Literal address across translation uni.
-C function pointer casting to void point.
-C++ floating point precisi.
-scanf Getting Skipp.
-Unsized array declaration in a stru.
-On which platforms does integer divide by zero trigger a floating point exception?
-Why sizeof(param_array) is the size of pointer?
-Concatenating Variable Names in C?
-using rand to generate a random numbe.
-return value of pow() gets rounded down if assigned to an integ.
-How is the working of fflush(stdin) changing the output in below code?
-Tools to get a pictorial function call graph of co.
-How do you format an unsigned long long int using printf?
-What is the meaning of "__attribute__((packed, aligned(4))).
-Difference between angle bracket < > and double quotes " " while including header files in C++?
-Standard alternative to GCC's ##__VA_ARGS__ trick?
-Why does this code segfault on 64-bit architecture but work fine on 32-bit?
-Matrix multiplication: Small difference in matrix size, large difference in timin.
-Remove comments from C/C++ co.
-The best cross platform (portable) arbitrary precision math libra.
-How to set socket timeout in C when making multiple connections?
-Determine the line of code that causes a segmentation fault?
-What does it mean to align the stack?
-Looking for a good hash table implementation in.
-stdout thread-safe in C on Linux?
-Why am I getting "undefined reference to sqrt" error even though I include math.h header?
-What can be the reasons of connection refused errors?
-Fast computing of log2 for 64-bit intege.
-How do you convert a byte array to a hexadecimal string in C?
-Bitwise operators and "endiannes.
-Convert a preprocessor token to a stri.
-Hexadecimal string to byte array in.
-What is the maximum size of an array in C?
-C: socket connection timeo.
-How to create a high resolution timer in Linux to measure program performance?
-What is the size of void?
-Conditional operator differences between C and C.
-How to generate RSA private key using OpenSSL?
-What are the different calling conventions in C/C++ and what do each mean?
-Determining endianness at compile ti.
-The ternary (conditional) operator in.
-How to set include path in xcode proje.
-Why does int pointer '++' increment by 4 rather than 1?
-Foreach macro on macros argumen.
-Printing UTF-8 strings with printf - wide vs. multibyte string litera.
-How to format a function pointer?
-An example of use of varargs in.
-In an OpenMP parallel code, would there be any benefit for memset to be run in parallel?
-Reduce matrix rows with CU.
-How can I access a shadowed global variable in C?
-Password to key function compatible with OpenSSL commands?
-Double precision - decimal plac.
-?: ternary conditional operator behaviour when leaving one expression emp.
-Using stdlib's rand() from multiple threa.
-Linux 3.0: Executing child process with piped stdin/stdo.
-Cholesky decomposition with Open.
-What will happen if '&' is not put in a 'scanf' statement?
-Does gcc automatically initialize static variables to zero?
-Using -1 as a flag value for unsigned (size_t) typ.
-!! c operator, is a two NOT?
-Short circuit evaluation and side effec.
-Passing a 2D array of struc.
-Why does clang produce inefficient asm with -O0 (for this simple floating point sum)?
-Disable all optimization options in G.
-Does scanf() take '\n' as input leftover from previous scanf()?
-Safe Alternative to ge.
-Extracting bits with a single multiplicati.
-Debug vs Release in CMa.
-Finding duplicates in O(n) time and O(1) spa.
-Protecting executable from reverse engineering?
-What belongs in an educational tool to demonstrate the unwarranted assumptions people make in C/C++?
-How to define an enumerated type (enum) in C?
-Are there any open source C libraries with common data structures?
-How do I make a simple makefile for gcc on Linux?
-How to use netlink socket to communicate with a kernel module?
-Quick Way to Implement Dictionary in.
-Color text in terminal applications in UN.
-Objective-C sample code for HMAC-SH.
-Passing an array by reference in C?
-Call Go functions from.
-clock_gettime alternative in Mac OS.
-How can a mixed data type (int, float, char, etc) be stored in an array?
-Best compiler warning level for C/C++ compilers?
+How to printf uint64_t? Fails with: "spurious trailing ‘%’ in format".
+Including one C source file in another?
+Point in Polygon Algorithm.
+C/C++: switch for non-integers.
+How does "while(*s++ = *t++)" copy a string?
+How to get the sign, mantissa and exponent of a floating point number.
+C/C++ printf() before scanf() issue.
+What do 1.#INF00, -1.#IND00 and -1.#IND mean?
+Pass arguments into C program from command line.
+what's the differences between r and rb in fopen.
+Find most significant bit (left-most) that is set in a bit array.
+Checking available stack size in C.
+What are the benefits of a relative path such as "../include/header.h" for a header?
+How to format a number from 1123456789 to 1,123,456,789 in C?
+In C how do you redirect stdin/stdout/stderr to files when making an execvp() or similar call?
+warning:gets function is dangerous.
+Is there any way to compute the width of an integer type at compile-time?
+What are the valid characters for macro names?
+Working of fork() in linux gcc.
+What is the internal precision of numpy.float128?
+Is accessing a global array outside its bound undefined behavior?
+Enabling VLAs (variable length arrays) in MS Visual C++?
+Undefined Symbol ___gxx_personality_v0 on link.
+Linker errors when compiling against glib...?
+Locks around memory manipulation via inline assembly.
+abnormal behavior of scanf.
+how to rasterize rotated rectangle (in 2d by setpixel).
+Divide a number by 3 without using *, /, +, -, % operators.
+What is the worst real-world macros/pre-processor abuse you've ever come across?
+What is exactly the base pointer and stack pointer? To what do they point?
+Why do we need C Unions?
+Mutex example / tutorial?
+What's the rationale for null terminated strings?
+C/C++ include header file order.
+What exactly is a C pointer if not a memory address?
+max value of integer.
+Linux Kernel: System call hooking example.
+What's the difference between a header file and a library?
+Is multiplication and division using shift operators in C actually faster?
+How to convert integer to string in C?
+Open source PDF library for C/C++ application?
+What is the use of the %n format specifier in C?
+What's the difference between "static" and "static inline" function?
+Rounding up to next power of 2.
+How to pass variable number of arguments to printf/sprintf.
+How to write a while loop with the C preprocessor?
+C library function to do sort.
+In C, how should I read a text file and print all strings.
+How to recursively list directories in C on Linux?
+Is it possible to call a C function from C#.Net.
+Create a wrapper function for malloc and free in C.
+How to dynamically allocate memory space for a string and get that string from user?
+How does fread really work?
+Set variable text column width in printf.
+Undefined reference to `sin`.
+Code for printf function in C.
+How does getchar() work?
+Catch and compute overflow during multiplication of two large integers.
+How to convert C++ Code to C.
+Can I use Intel syntax of x86 assembly with GCC?
+C : How to simulate an EOF?
+How are floating point numbers are stored in memory?
+Why can't I convert 'char**' to a 'const char* const*' in C?
+Array to pointer decay and passing multidimensional arrays to functions.
+Is there a Java equivalent or methodology for the typedef keyword in C++?
+Strings in C, how to get subString.
+Are the results of bitwise operations on signed integers defined?
+Difference between char *str="STRING" and char str[] = "STRING"?
+typedef pointer const weirdness.
+Is it safe to read past the end of a buffer within the same page on x86 and x64?
+When should I use ampersand with scanf().
+C -- passing a 2d array as a function argument?
+C++ floating point precision.
+Implicit int return value of C function.
+Pointer Arithmetic In C.
+C/C++ unsigned integer overflow.
+segmentation fault using scanf.
+stat() error 'No such file or directory' when file name is returned by readdir().
+using rand to generate a random numbers.
+How much memory would be freed if pointer is changed in C?
+Wrapping a C library in Python: C, Cython or ctypes?
+Why does the arrow (->) operator in C exist?
+Measure time in Linux - time vs clock vs getrusage vs clock_gettime vs gettimeofday vs timespec_get?
+Should I use char** argv or char* argv[] in C?
+Using scanf() in C++ programs is faster than using cin?
+How is malloc() implemented internally?
+What does void* mean and how to use it?
+What are the differences between .so and .dylib on osx?
+Return a `struct` from a function in C.
+C pointers : pointing to an array of fixed size.
+How does one encode a series of images into H264 using the x264 C API?
+How to know what the 'errno' means?
+Why does pthread_cond_wait have spurious wakeups?
+Is it faster to count down than it is to count up?
+What are the GCC default include directories?
+maximum value of int.
+Container Class / Library for C.
+How to use pointer expressions to access elements of a two-dimensional array in C?
+Redirecting exec output to a buffer or file.
+Overriding 'malloc' using the LD_PRELOAD mechanism.

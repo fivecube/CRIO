@@ -1,100 +1,100 @@
+I've Heard Global Variables Are Bad, What Alternative Solution Should I Use?
+Convert string to variable name in JavaScript.
+I keep getting "Uncaught SyntaxError: Unexpected token o".
+Regex to get string between curly braces "{I want what's between the curly braces}".
 How to check if two arrays are equal with JavaScript?
-Make cross-domain ajax JSONP request with jQue.
-Disable browser's back butt.
+Make cross-domain ajax JSONP request with jQuery.
+Disable browser's back button.
 Can I escape html special chars in javascript?
 How do I retrieve all matches for a regular expression in JavaScript?
 How do I get the difference between two Dates in JavaScript?
 How can I add 1 day to current date?
-jQuery id selector works only for the first eleme.
-Execute a command line binary with Node..
+jQuery id selector works only for the first element.
+How do I pass command line arguments to a Node.js program?
 Can I use jQuery with Node.js?
 Are there legitimate uses for JavaScript's "with" statement?
-Twitter Bootstrap Tabs: Go to Specific Tab on Page Reload or Hyperli.
+Twitter Bootstrap Tabs: Go to Specific Tab on Page Reload or Hyperlink.
+JavaScript set object key by variable.
 How can I add a custom HTTP header to ajax request with js or jQuery?
-Recursion in Angular directiv.
+Recursion in Angular directives.
 How do you launch the JavaScript debugger in Google Chrome?
-How to get a subset of a javascript object's properti.
-Convert array to JS.
+Convert array to JSON.
 Where to place JavaScript in an HTML file?
-change type of input field with jQue.
+change type of input field with jQuery.
 How to inject Javascript in WebBrowser control?
-How to use __doPostBack.
-Check variable equality against a list of valu.
-++someVariable vs. someVariable++ in JavaScri.
+How can I trigger a JavaScript event click.
+How to use __doPostBack().
+Check variable equality against a list of values.
+++someVariable vs. someVariable++ in JavaScript.
 Why does babel rewrite imported function call to (0, fn)(...)?
-Best way to manage Chat channels in Fireba.
-How to force JS to do math instead of putting two strings togeth.
+Best way to manage Chat channels in Firebase.
+How to force JS to do math instead of putting two strings together.
 VueJS: why is "this" undefined?
-Javascript: Object Literal reference in own key's function instead of 'thi.
+Javascript: Object Literal reference in own key's function instead of 'this'.
 How to move an element into another element?
-What do multiple arrow functions mean in javascript?
+How to create an array containing 1...N.
 Adding options to a <select> using jQuery?
 indexOf method in an object array?
-.trim() in JavaScript not working in .
-Android Calling JavaScript functions in WebVi.
-Loading local JSON fi.
+.trim() in JavaScript not working in IE.
+Android Calling JavaScript functions in WebView.
+Loading local JSON file.
 How do you get the rendered height of an element?
-Use JavaScript to place cursor at end of text in text input eleme.
+Use JavaScript to place cursor at end of text in text input element.
 How to Preview Image, get file size, image height and width before upload?
-What is the temporal dead zone?
 Are JavaScript strings immutable? Do I need a "string builder" in JavaScript?
-Angularjs minify best practi.
-How can I trigger a JavaScript event cli.
-jQuery/JavaScript collision detecti.
+Angularjs minify best practice.
+jQuery/JavaScript collision detection.
 How to set object property (of object property of..) given its string name in JavaScript?
 What's the best way to inject one service into another in angular 2 (Beta)?
-Is it possible to use JS to open an HTML select to show its option list?
 How do I bind to list of checkbox values with AngularJS?
-(Built-in) way in JavaScript to check if a string is a valid numb.
+(Built-in) way in JavaScript to check if a string is a valid number.
 Advantages of using prototype, vs defining methods straight in the constructor?
-Generate a Hash from string in Javascri.
-JavaScript set object key by variab.
+Generate a Hash from string in Javascript.
 How do I define global variables in CoffeeScript?
-How to reload a page using JavaScri.
+How to reload a page using JavaScript.
+Ajax request returns 200 OK, but an error event is fired instead of success.
 How to find the operating system version using JavaScript?
 Is it correct to use JavaScript Array.sort() method for shuffling?
-jQuery 1.9 .live() is not a functi.
+jQuery 1.9 .live() is not a function.
 What it the significance of the Javascript constructor property?
-Inserting a text where cursor is using Javascript/jque.
+Inserting a text where cursor is using Javascript/jquery.
 Efficiently replace all accented characters in a string?
 Why doesn't indexOf work on an array IE8?
 How can I group data with an Angular filter?
-Cache busting via para.
+Cache busting via params.
 What does the leading semicolon in JavaScript libraries do?
-Babel file is copied without being transform.
+Babel file is copied without being transformed.
 How to create an accurate timer in javascript?
-Using jQuery $(this) with ES6 Arrow Functions (lexical this bindin.
-Dynamically set value of a file inp.
+Using jQuery $(this) with ES6 Arrow Functions (lexical this binding).
+Dynamically set value of a file input.
 What are alternatives to document.write?
-Arrow Functions and Th.
-Correct javascript inheritan.
-Upload multiple image using AJAX, PHP and jQue.
-jqgrid server side error message/validation handli.
-Why this javascript regex doesn't work?
+Is it possible to use JS to open an HTML select to show its option list?
+Arrow Functions and This.
+Correct javascript inheritance.
+Upload multiple image using AJAX, PHP and jQuery.
+jqgrid server side error message/validation handling.
 How do I debug Node.js applications?
+How to dispatch a Redux action with a timeout?
 How to get the children of the $(this) selector?
-How do I pass command line arguments to a Node.js program?
 jQuery document.createElement equivalent?
 Can I hide the HTML5 number input’s spin box?
 How to unset a JavaScript variable?
 How do you performance test JavaScript code?
 Google Maps API v3: How to remove all markers?
-Why was the arguments.callee.caller property deprecated in JavaScript?
 Detecting input change in jQuery?
-Ajax request returns 200 OK, but an error event is fired instead of succe.
-How to have a default option in Angular.js select b.
-jquery get querystring from U.
-How to save a PNG image server-side, from a base64 data stri.
+How to have a default option in Angular.js select box.
+jquery get querystring from URL.
+How to update nested state properties in React.
+How to save a PNG image server-side, from a base64 data string.
 Usage of the backtick character (`) in JavaScript?
-Executing <script> inside <div> retrieved by AJ.
+Executing <script> inside <div> retrieved by AJAX.
 How to get an HTML element's style values in javascript?
-Explanation of `let` and block scoping with for loo.
+Explanation of `let` and block scoping with for loops.
 Why are global variables considered bad practice?
 How does this object method definition work without the "function" keyword?
-Underscore template throwing variable not defined err.
-jQuery in Greasemonkey 1.0 conflicts with websites using jQue.
-Organize prototype javascript while perserving object reference and inheritan.
-How to dispatch a Redux action with a timeout?
-Understanding the difference between Object.create() and new SomeFunction.
-Download a file from NodeJS Server using Expre.
-Is using 'var' to declare variables optional?
+Underscore template throwing variable not defined error.
+jQuery in Greasemonkey 1.0 conflicts with websites using jQuery.
+Organize prototype javascript while perserving object reference and inheritance.
+Understanding the difference between Object.create() and new SomeFunction().
+Download a file from NodeJS Server using Express.
+Why was the arguments.callee.caller property deprecated in JavaScript?
