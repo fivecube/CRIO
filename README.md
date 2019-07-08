@@ -1,4 +1,21 @@
-# CRIO
-LET'S DO IT!!
+# Programming_Problem_Solver
+A PyQT5 desktop Application That analyse user's programming query and fetch the most relevant answers of the most relevant questions.
 
-Keep a place to write about Research files. I will wrtie there.
+## Pre-Requirments:
+1) Python 3.6
+2) Pandas 
+```pip install pandas```
+3)sklearn
+```pip install pandas```
+3) ibm_watson_cloud_sdk
+```pip install --upgrade ibm-watson```
+4) PyQt5 <br>
+```pip install pyQt5```
+5) pyQtWebEngine
+```pip install PyQtWebEngine```
+6) numpy
+```pip install numpy```
+7)nltk
+```pip install nltk```
+## How to run this application:
+```python code.py```
