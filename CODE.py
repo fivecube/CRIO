@@ -12,7 +12,7 @@ from PyQt5.QtWidgets import (QDialog, QDialogButtonBox, QVBoxLayout,
 import requests
 from pandas import DataFrame
 import Watson_services
-import Answers_code
+import Select_answers
 import Rem_Non_tags
 import TF_IDF_NLTK
 
@@ -135,7 +135,7 @@ class Answers:
 
             for q_id in question_dict:
                 print(question_dict[q_id])
-                for ans in Answers_code.top_answers_fun(str(q_id)):
+                for ans in Select_answers.top_answers_fun(str(q_id)):
                     urls.append(ans)
         except Exception as e:
             print(e)
