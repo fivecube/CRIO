@@ -2,17 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2debe742-16cc-4e94-84bc-9378ea85a784" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Answers_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rem_Non_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TF_IDF_NLTK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Watson_services.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Research-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/watson_bot_research-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/watson_bot_research-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/knowledge_studio_preann/WKS_preannotation_dict (1).csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/knowledge_studio_preann/WKS_preannotation_dict (2).csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/knowledge_studio_preann/WKS_preannotation_dict (3).csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/knowledge_studio_preann/WKS_preannotation_dict (4).csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/watson_bot_research.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/watson_bot_research.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Assistant_automation-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Code-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Final_code-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/StackAPI_Research-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Verb_Research-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/watson_bot_research-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assistant_automation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE.py" beforeDir="false" afterPath="$PROJECT_DIR$/CODE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_code.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryResults(3).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryResults(5).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SO_tags_dict_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SO_tags_synonym.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StackAPI_Research.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verb_Research.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_studio_preann/dict1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_studio_preann/dict2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_studio_preann/dict3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_studio_preann/dict4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/value_dict_eta.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/values.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skill-Stackoverflow_query_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/c/c0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/c/c1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/c/c2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/c/c3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/c/c4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/c/c5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/c/c6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/c/c7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/c/c8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/c/c9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/javascript/javascript0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/javascript/javascript1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/javascript/javascript2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/javascript/javascript3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/javascript/javascript4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/javascript/javascript5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/javascript/javascript6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/javascript/javascript7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/javascript/javascript8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/javascript/javascript9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/python/python0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/python/python1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/python/python2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/python/python3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/python/python4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/python/python5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/python/python6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/python/python7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/python/python8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/python/python9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/random/Random0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/random/Random1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/random/Random2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/random/Random3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/random/Random4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/random/Random5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/random/Random6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/random/Random7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/random/Random8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/random/Random9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/cbetween1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/cbetween2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/cselect1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/cselect2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/cwhere1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/cwhere2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/pythonbetween1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/pythonbetween2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/pythonselect1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/pythonselect2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/pythonwhere1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/pythonwhere2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/sqlbetween1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/sqlbetween2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/sqlselect1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/sqlselect2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/sqlwhere1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql-error/sqlwhere2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql/sql0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql/sql1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql/sql2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql/sql3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql/sql4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql/sql5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql/sql6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql/sql7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql/sql8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics_knowledge_studio/sql/sql9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watson_bot_research.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +107,62 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CODE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rem_Non_tags.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TF_IDF_NLTK.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Watson_services.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Answers_code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <folding>
+                <element signature="e#59#74#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,14 +185,22 @@
         <option value="$PROJECT_DIR$/watson_discovery_test.py" />
         <option value="$PROJECT_DIR$/natural_language_understanding_v1.py" />
         <option value="$PROJECT_DIR$/nlu_test1.py" />
+        <option value="$PROJECT_DIR$/Answers.py" />
+        <option value="$PROJECT_DIR$/Answers_code.py" />
+        <option value="$PROJECT_DIR$/Watson_services.py" />
+        <option value="$PROJECT_DIR$/TF-IDF-NLTK.py" />
+        <option value="$PROJECT_DIR$/TF_IDF_NLTK.py" />
+        <option value="$PROJECT_DIR$/Rem_Non_tags.py" />
+        <option value="$PROJECT_DIR$/Questions_code.py" />
+        <option value="$PROJECT_DIR$/CODE.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="x" value="535" />
+    <option name="y" value="235" />
+    <option name="width" value="978" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -74,6 +223,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -88,7 +238,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nlu_test1">
+  <component name="RunManager" selected="Python.CODE">
+    <configuration name="Answers_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="watson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Answers_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CODE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="watson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CODE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="natural_language_understanding_v1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="watson" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,6 +346,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CODE" />
+        <item itemvalue="Python.Answers_code" />
         <item itemvalue="Python.nlu_test1" />
         <item itemvalue="Python.watson_discovery_test" />
         <item itemvalue="Python.natural_language_understanding_v1" />
@@ -176,7 +370,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -219,5 +413,52 @@
     <entry file="file://$PROJECT_DIR$/nlu_test1.py" />
     <entry file="file://$PROJECT_DIR$/natural_language_understanding_v1.py" />
     <entry file="file://$PROJECT_DIR$/watson_discovery_test.py" />
+    <entry file="file://$PROJECT_DIR$/TF_IDF_NLTK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watson_services.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Answers_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#59#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rem_Non_tags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Questions_code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CODE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
