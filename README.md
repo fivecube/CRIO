@@ -29,3 +29,8 @@ A PyQT5 desktop Application That analyse user's programming query and fetch the 
 
 ## How to run this application:
 ```python code.py```
+
+You will get a screen like this:
+
+![Alt Text](images/Capture1.PNG)
+
