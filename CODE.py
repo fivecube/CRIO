@@ -71,13 +71,15 @@ class Answers:
         :return: List
         """
         urls = []
+        print("*********************RELEVANT TAGS DECIDING PHASE*********************")
         try:
             final_list = most_relevant_tags(self.query)
-            print(final_list)
+            print("Row tags before Custom Model are ", final_list)
 
             final_list = remove_error_tags(self.query, final_list)
-            print(final_list)
-            print("\n \n")
+            print("Final tags are ",final_list)
+            print("*********************************OVER*********************************")
+            print("\n")
             api_url_1 = "https://api.stackexchange.com/2.2/similar?key=" + Auth_key + "&order=desc&sort=relevance&tagged=" + ";".join(
                 final_list) + "&title="
             api_url_2 = self.query + "&site=stackoverflow"
@@ -89,7 +91,9 @@ class Answers:
         except Exception as e:
             print(e)
 
-        print(" NO of Questions fetch by the STACK APPS API = ", len(df))
+        print("*********************PHASE 1*********************")
+        print("NO of Questions fetch by the STACK APPS API = ", len(df))
+
         # PHASE 1
         try:
             print("Removing Questions which are closed")
@@ -102,13 +106,15 @@ class Answers:
             df = df[df.is_answered]
             print("Removing Quesitons with negative scores")
             df = df[df.score>0]
-            print("NO of Questions left after PHASE 1 ARE  = ", len(df))
         except Exception as e:
             print(e)
-
+        print("**********************OVER**********************")
+        print("\n")
+        print("*********************PHASE 2*********************")
+        print("NO of Questions left after PHASE 1 ARE  = ", len(df))
         # PHASE 2
         print("Creating extra features to sort the questions which are returned by the api")
-        print("Using Watson for", len(df), "times on the questions after phase 1")
+        print("Using Watson for", len(df), "Question titles, Relax it will take a moment!")
         try:
             df['Tag_Match'] = df.apply(lambda row: len(set(row.tags).intersection(final_list)), axis=1)
             df['Similarity_index'] = df.apply(lambda row: TF_IDF_NLTK.cosine_sim(row.title, self.query), axis=1)
@@ -123,23 +129,25 @@ class Answers:
         except Exception as e:
             print(e)
 
+        print("**********************OVER**********************")
+        print("\n")
+
         print("NO of Quesitons choosen after PHASE 2 are 5")
-        print("All done!")
         print("Now deciding which answers are the best one!!")
         try:
             question_dict = {}
             for i in range(5):
-                print(df.iloc[i].title)
+                # print(df.iloc[i].title)
                 # print(df.iloc[i].link)
                 question_dict[df.iloc[i].question_id] = df.iloc[i].title
 
             for q_id in question_dict:
-                print(question_dict[q_id])
+                # print(question_dict[q_id])
                 for ans in Select_answers.top_answers_fun(str(q_id)):
                     urls.append(ans)
         except Exception as e:
             print(e)
-
+        print("All done!")
 
         self.answer_urls.extend(urls)
         return self.answer_urls
