@@ -9,8 +9,8 @@ A PyQT5 desktop Application That analyse user's programming query and fetch the 
 1) Python 3.6
 2) Pandas
 ```pip install pandas```  
-3) sklearn
-```pip install pandas```  
+3) spacy
+```pip install spacy```  
 3) ibm_watson_cloud_sdk
 ```pip install --upgrade ibm-watson```  
 4) PyQt5
@@ -21,6 +21,8 @@ A PyQT5 desktop Application That analyse user's programming query and fetch the 
 ```pip install numpy```  
 7) nltk
 ```pip install nltk```
+8) Spacy English Model
+```python -m spacy download en_core_web_sm```  
 ## --------------------------------------------------------------
 
 ## How to run this application:
