@@ -9,16 +9,31 @@ from PyQt5.QtWidgets import (QDialog, QDialogButtonBox, QVBoxLayout,
                              QLabel, QMainWindow, QStatusBar, QToolBar,
                              QAction, QLineEdit, QFileDialog, QApplication)
 
-import requests
+
 from pandas import DataFrame
+import nltk
 import Watson_services
+import requests
 import Select_answers
 import Rem_Non_tags
-import TF_IDF_NLTK
+import TF_IDF
+
+nltk.download('stopwords')
+from nltk.corpus import stopwords
 
 
 # Stack Apps API key
 Auth_key = "rEi)4Xt7RnJf4tqP)pk5nQ(("
+
+
+def remove_stopwords(words_list_eta):
+    """
+    To remove the stopwords like I,am,the from the user query which are of no use.
+    :param words_list_eta: Take a list of words
+    :return: Returns a list of word with stopwords removed
+    """
+    stop_words = stopwords.words('english')
+    return [word for word in words_list_eta if word not in stop_words]
 
 
 def most_relevant_tags(query_eta):
@@ -28,7 +43,7 @@ def most_relevant_tags(query_eta):
     :return: List of words which are most relevant tags from that query
     """
     assistant_list = set(Watson_services.watson_assistantv1(query_eta))
-    local_list = set(Rem_Non_tags.remove_nonsotag(TF_IDF_NLTK.remove_stopwords(query_eta.split())))
+    local_list = set(Rem_Non_tags.remove_nonsotag(remove_stopwords(query_eta.split())))
     final_list_eta = assistant_list.union(local_list)
 #     print("local_list is ",local_list,"assistant_list is",assistant_list)
     return final_list_eta
@@ -117,7 +132,7 @@ class Answers:
         print("Using Watson for", len(df), "Question titles, Relax it will take a moment!")
         try:
             df['Tag_Match'] = df.apply(lambda row: len(set(row.tags).intersection(final_list)), axis=1)
-            df['Similarity_index'] = df.apply(lambda row: TF_IDF_NLTK.cosine_sim(row.title, self.query), axis=1)
+            df['Similarity_index'] = df.apply(lambda row: TF_IDF.cosine_sim(row.title, self.query), axis=1)
             df['keyword_in_title'] = df.apply(lambda row: most_relevant_tags(row.title), axis=1)
             df['Keywords_Match'] = df.apply(lambda row: len(set(row.keyword_in_title).intersection(final_list)), axis=1)
             alpha = 0.5
