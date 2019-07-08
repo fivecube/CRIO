@@ -6,7 +6,7 @@ from pandas import DataFrame
 def badge_reputation(dict_eta):
     """
     Simple function to calculate badge reputation of a user
-    :param dict_eta: dictionary of badges the user have earned
+    :param dict_eta: dictionary of owner details
     :return: a float value perfectly representing the badge reputation
     """
     if "badge_counts" in dict_eta:
@@ -22,6 +22,18 @@ def badge_reputation(dict_eta):
         if 'gold' in dict_eta_2:
             badge_repu+=gamma*dict_eta_2['gold']
         return badge_repu
+    else:
+        return 0
+
+
+def normal_reputation(dict_eta):
+    """
+    To handle the error if reputation does not exit
+    :param dict_eta: dictionary of owner details
+    :return: a value which represents the reputation of the owner
+    """
+    if "reputation" in dict_eta:
+        return dict_eta['reputation']
     else:
         return 0
 
@@ -42,7 +54,8 @@ def top_answers_fun(q_id_eta):
     df_ans = DataFrame(top_answers['items'])
 #     print(df_ans)
     df_ans['badge_reputation'] = df_ans.apply(lambda row:badge_reputation(row.owner) , axis = 1)
-    df_ans['repu'] = df_ans.apply(lambda row:row.owner['reputation'],axis=1)
+
+    df_ans['repu'] = df_ans.apply(lambda row:normal_reputation(row.owner),axis=1)
     df_ans['final_function'] = df_ans.apply(lambda row:delta*row.badge_reputation+epsilon*row.repu+zeta*row.score,axis=1)
     df_ans = df_ans.sort_values(by = ["final_function"],ascending = False)
     eta = df_ans.iloc[0]['final_function']
