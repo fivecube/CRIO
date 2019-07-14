@@ -133,13 +133,12 @@ class Answers:
         try:
             df['Tag_Match'] = df.apply(lambda row: len(set(row.tags).intersection(final_list)), axis=1)
             df['Similarity_index'] = df.apply(lambda row: TF_IDF.cosine_sim(row.title, self.query), axis=1)
-            df['keyword_in_title'] = df.apply(lambda row: most_relevant_tags(row.title), axis=1)
-            df['Keywords_Match'] = df.apply(lambda row: len(set(row.keyword_in_title).intersection(final_list)), axis=1)
+            # df['keyword_in_title'] = df.apply(lambda row: most_relevant_tags(row.title), axis=1)
+            # df['Keywords_Match'] = df.apply(lambda row: len(set(row.keyword_in_title).intersection(final_list)), axis=1)
             alpha = 0.5
             beta = 1.5
-            gamma = 1.2
-            df['Final_function'] = df.apply(
-                lambda row: (alpha * row.Tag_Match) + (beta * row.Similarity_index) + (gamma * row.Keywords_Match), axis=1)
+            # gamma = 1.2
+            df['Final_function'] = df.apply(lambda row: (alpha * row.Tag_Match) +(beta *row.Similarity_index), axis=1)
             df = df.sort_values(by=["Final_function"], ascending=False)
         except Exception as e:
             print(e)
