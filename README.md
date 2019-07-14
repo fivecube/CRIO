@@ -48,7 +48,7 @@ You can also see the command prompt to see what is happening in the background:
 ![Alt Text](images/Capture3.PNG)
 
 
->>> Speciality:
+>>> Speciality:  
 1). We can clearly see in the 3rd image in ```RELEVANT TAGS DECIDING PHASE``` that where-clause was ```removed``` by our Custom Model trained on IBM WATSON KNOWLEDGE STUDIO to check if a tag is relevant or not.  
 2). Best Answers are shown highlighted  first and than next answers can be seen by next arrow.  
 3). Complex features are made based on Quesiton title to check the text similarity with the user's query  
