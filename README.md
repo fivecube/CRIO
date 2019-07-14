@@ -27,6 +27,11 @@ A PyQT5 desktop Application That analyse user's programming query and fetch the 
 ```python -m spacy download en_core_web_sm```  
 ## --------------------------------------------------------------
 
+## Watson Services Used:  
+#### Watson Knowledge Studio  
+#### Watson NLU  
+#### Watson Assistant's Fuzzy Logic and Spell checking.  
+
 ## How to run this application:
 ```python code.py```
 
