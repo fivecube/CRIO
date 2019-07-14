@@ -60,3 +60,6 @@ You can also see the command prompt to see what is happening in the background:
 
 ## PPT LINK:  
 https://drive.google.com/file/d/1wX_WRGH3No4DQZ8CONdEZlwj1qK3flGO/view?usp=sharing
+
+## VIDEO LINK:
+https://youtu.be/omWdOuMeS9A
