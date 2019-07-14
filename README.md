@@ -53,4 +53,5 @@ You can also see the command prompt to see what is happening in the background:
 2). Best Answers are shown highlighted  first and than next answers can be seen by next arrow.  
 3). Complex features are made based on Quesiton title to check the text similarity with the user's query  
 
-
+## PPT LINK:  
+https://drive.google.com/file/d/1wX_WRGH3No4DQZ8CONdEZlwj1qK3flGO/view?usp=sharing
