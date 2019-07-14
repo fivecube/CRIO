@@ -28,9 +28,9 @@ A PyQT5 desktop Application That analyse user's programming query and fetch the 
 ## --------------------------------------------------------------
 
 ## Watson Services Used:  
-#### Watson Knowledge Studio  
-#### Watson NLU  
-#### Watson Assistant's Fuzzy Logic and Spell checking.  
+####1) Watson Knowledge Studio  
+####2) Watson NLU  
+####3) Watson Assistant's Fuzzy Logic and Spell checking.  
 
 ## How to run this application:
 ```python code.py```
@@ -63,3 +63,6 @@ https://drive.google.com/file/d/1wX_WRGH3No4DQZ8CONdEZlwj1qK3flGO/view?usp=shari
 
 ## VIDEO LINK:
 https://youtu.be/omWdOuMeS9A
+
+## FLOW DIAGRAM:  
+![FLow diagram image should show here](flow_diagram.jpg)
