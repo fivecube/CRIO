@@ -47,6 +47,6 @@ https://youtu.be/omWdOuMeS9A
 ## FLOW DIAGRAMS:  
 ![FLow diagram image should show here](flow_diagram.jpg)
 
-![Dfd diagram image should show here](dfd_diagram.jpg)
+![Dfd diagram image should show here](dfd_diagram.png)
 
 
