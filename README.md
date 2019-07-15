@@ -2,8 +2,8 @@
 A PyQT5 desktop Application that analyses user's StackOverflow query and fetches the most relevant answers from the most relevant questions.
 
 # Quick Installation:
-Inside the project repositry type: \
-`pip install -r requirements.txt` \
+Inside the project repositry type:\
+`pip install -r requirements.txt`\
 Also download Spacy English Model(11mb):\
 `python -m spacy download en_core_web_sm`
 
