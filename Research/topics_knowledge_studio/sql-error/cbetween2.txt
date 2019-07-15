@@ -1,0 +1,100 @@
+Variables conflict between Makefile and C code.
+difference between struct root_domain and struct sched_domain.
+Difference between r+ and w+ in fopen().
+Difference between gets() and scanf("%s").
+How do i get fscanf to read from a .csv file, reading each section in between the commas and on each line into a string?
+How do I switch between windows in c on linux with gtk3.
+Socket programming between client in C#.NET and server in C.
+What is the difference between O1 and Os?
+Difference between inotify and epoll.
+Difference between using Makefile and CMake to compile the code.
+Difference between strchr and strpbrk.
+Differences between single-quotes and double-quotes in C.
+What is difference between MQTTAsync_onSuccess and MQTTAsync_deliveryComplete callbacks?
+What is the difference between nodelay() and cbreak() in ncurses?
+c syntax error on common variables between different .c files.
+Difference between these two struct usages.
+In C, what is the difference between passing array as *arr and *arr[] to function?
+Difference between using a pointer to assign a value/just assigning it normally?
+Difference between scanf and scanf_s.
+What the differences between clk_id of clock_gettime system-call.
+Difference between size_t and unsigned int?
+What is the difference between having separate arguments (for a function) or a struct of arguments?
+How to keep values of a union member between function calls in C?
+what is the difference between the following two C codes.
+Basic communication with nrf24l01 between nodemcu and arduino nano.
+Difference between reading and parsing.
+What's the difference between these two operations?
+Best way to communicate between NodeJs and C child process.
+which one between " c or c++ " should I learn for beginner for to use Arduino UNO?
+What is the relationship between POSIX and the C language?
+Difference between "call by reference" and global variables.
+What is the difference between AF_INET and PF_INET in socket programming?
+ECDSA Signing and Verifying issue between python ECDSA and C micro-ecc library.
+how to generate a symmetric sequence (same amount of elements of each part) between 0 and 1 in c?
+How to make a function to find the difference between each element of two arrays of equal length.
+What is the difference between pthread_self() and syscall(SYS_gettid)?
+what is the different between struct stat * buffer and &buffer in linux stat function.
+what is the difference between "*pointer++" and "(*pointer)++"?
+Recursive symmetric difference between two linked list.
+What is the difference between MinGW SEH and MinGW SJLJ?
+What's the difference between const array and static const array in C/C++.
+Trouble with translation of typedef between C to D.
+What exactly is the difference between "pass by reference" in C and in C++?
+C while loop between number range.
+Function calls between strtok?
+Find the difference between two dates in hours?
+How to Cancel/Reset page between StartPage/EndPage when printing?
+Is there a graceful way to handle toggling between fullscreen and windowed mode in a Windows OpenGL application?
+How can I resolve this mutual dependency between header files?
+Sharedmemory between different sessions.
+C differentiate between a function and a struct.
+Confused between call by ref and call by value in my code.
+How to open file in C, what is different between (argv[1], "r") and ("file name", "r").
+Difference between malloc then strcpy vs just setting it equal to the string.
+How to generate random coordinates between two straights?
+Difference between MOV and MOV ptr.
+Difference between call by reference and call by pointer in C language?
+What is the difference between referencing pointers in a function.
+How to count number of days between two dates using <time.h>.
+How do i add an "(if)" that allows only letters between a-f || A-F?
+How to correctly share memmory between processes?
+Problem between different compilers regarding array size read through a variable from the keyboard.
+Serial communication between C and Arduino Uno not working correctly.
+What is the difference between logb() and ilogb()?
+Is there a efficiency difference between a single dimensional array and a 2 dimensional array (matrix)?
+What is the relationship between callbacks and function pointers?
+What is the difference between GL_POINTS and GL_POINT.
+What's the difference between sockaddr, sockaddr_in, and sockaddr_in6?
+Warning comparison between pointer and integer.
+How to jump between functions.
+xcode: difference between adding a linker flag and "link binary with libraries".
+What are the difference between load view and executable view of a program?
+Difference between specifications of fread and fgets?
+Does the distance between read and write locations have an effect on cache performance?
+Difference between exec, execvp, execl, execv?
+A binary expects multiple inputs from pipe and pipe is written by Python,why sleep necessary between writes?
+Why does not my TIMER0 use the oscillator between XTAL1 and XTAL2 on my Atmega644 controller?
+Second MPI_Send between Parent and Child processes hangs.
+What is the difference between 2d array pointers and *arr[]?
+What is the difference between arr and *arr?
+Variable declaration between function name and first curly brace.
+sharing a dynamically populated array between two files in C.
+What is the difference between CreateFile() and CreateFileA()?
+Is there any difference between variables in a private clause and variables defined within a parallel region in OpenMP?
+What's the difference between (size_t)-1 and ~0?
+precision between float and double in C.
+What is the difference between C and embedded C?
+Difference between constants defined in Go's syscall and C's stat.h.
+Extracting a string between two similar (or different) strings in C as fast as possible.
+What is the difference between Node *head versus Node **head?
+Difference between Data_Wrap_Struct and TypedData_Wrap_Struct?
+Why is my debugger incorrectly transitioning between cases in a switch statement?
+Best way to pass data between two servers in C?
+What's the difference between printf and printf_s in C?
+Problem with pipes between father and son processes.
+What is the difference between a Linux platform driver and normal device driver?
+Segmentation fault when asigning shared memory between variables of different types.
+Difference between struct * and struct ** in function header.
+Sharing function between c and c#.
+Is there a difference between memory layout of struct _node* next; and struct* next; on 32bit x86 or amd?

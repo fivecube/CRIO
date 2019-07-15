@@ -1,0 +1,100 @@
+What does the 'array name' mean in case of array of char pointers?
+Why cast an unused function parameter value to void?
+Is NULL always zero in C?
+int main() vs void main() in C.
+Getting a FILE* from a std::fstream.
+"undefined reference to" errors when linking static C library with C++ code.
+Type of integer literals not int by default?
+what is the use of fflush(stdin) in c programming.
+The program doesn't stop on scanf("%c", &ch) line, why?
+What is a "static" function?
+Where in memory are my variables stored in C?
+Are typedef and #define the same in c?
+"register" keyword in C?
+What integer hash function are good that accepts an integer hash key?
+How to convert an enum type variable to a string?
+Why does integer overflow on x86 with GCC cause an infinite loop?
+Valid use of goto for error management in C?
+Why does C++11 not support designated initializer lists as C99?
+Undefined reference to `pow' and `floor'.
+Using malloc for allocation of multi-dimensional arrays with different row lengths.
+How to find leap year programatically in C.
+Can I share a file descriptor to another process on linux or are they local to the process?
+Arrays are Pointers?
+Capturing stdout from a system() command optimally.
+Double pointer const-correctness warnings in C.
+Right shifting negative numbers in C.
+Why does C++ require a cast for malloc() but C doesn't?
+Why does "++x || ++y && ++z" calculate "++x" first, even though operator "&&" has higher precedence than "||".
+Parsing input with scanf in C.
+Why does a large local array crash my program, but a global one doesn't?
+What is the difference between these (bCondition == NULL) and (NULL==bCondition)?
+How to write iOS app purely in C.
+What is the fastest substring search algorithm?
+Why do pthreads’ condition variable functions require a mutex?
+Reading string from input with space character?
+Detecting superfluous #includes in C/C++?
+C Macro definition to determine big endian or little endian machine?
+How do free and malloc work in C?
+Variable declaration placement in C.
+Declaring pointers; asterisk on the left or right of the space between the type and name?
+Difference between array type and array allocated with malloc.
+Performance of built-in types : char vs short vs int vs. float vs. double.
+Why was the switch statement designed to need a break?
+Catch Ctrl-C in C.
+Convert hex string (char []) to int?
+How to read the content of a file to a string in C?
+Passing multidimensional arrays as function arguments in C.
+Is ncurses available for windows?
+Stringification of a macro value.
+How does concatenation of two string literals work?
+Why dividing two integers doesn't get a float?
+Why is malloc not "using up" the memory on my computer?
+C getline() - how to deal with buffers / how to read unknown number of values into array.
+Dynamica allocation of an unknown matrix in C.
+Fastest way to determine if an integer is between two integers (inclusive) with known sets of values.
+How exactly does __attribute__((constructor)) work?
+Error handling in C code.
+How to split a string literal across multiple lines in C / Objective-C?
+Stack smashing detected.
+End of File (EOF) in C.
+Does stack grow upward or downward?
+Map a 2D array onto a 1D array.
+_DEBUG vs NDEBUG.
+Is unsigned integer subtraction defined behavior?
+What registers to save in the ARM C calling convention?
+Type conversion - unsigned to signed int/char.
+print call stack in C or C++.
+Why can't I find <conio.h> on Linux?
+I can use more memory than how much I've allocated with malloc(), why?
+Check if input is integer type in C.
+C: using clock() to measure time in multi-threaded programs.
+Why do C and C++ support memberwise assignment of arrays within structs, but not generally?
+C / C++ MultiDimensional Array Internals.
+Stack allocation, padding, and alignment.
+sequence points in c.
+What is the meaning of lines starting with a hash sign and number like '# 1 "a.c"' in the gcc preprocessor output?
+How to build an executable for Android shell.
+What is the equivalent to Posix popen() in the Win32 API?
+One-dimensional access to a multidimensional array: is it well-defined behaviour?
+Multiple characters in a character constant.
+Why does left shift operation invoke Undefined Behaviour when the left side operand has negative value?
+strcmp on a line read with fgets.
+Return value range of the main function.
+Why is this happening with the sizeof operator when comparing with a negative number?
+Returning local data from functions in C and C++ via pointer.
+What are the rules of automatic stdout buffer flushing in C?
+Fastest way to check if a file exist using standard C++/C++11/C?
+Execution time of C program.
+return statement vs exit() in main().
+Why are hexadecimal numbers prefixed with 0x?
+What's the difference between __PRETTY_FUNCTION__, __FUNCTION__, __func__?
+constant pointer vs pointer on a constant value.
+Tool to track #include dependencies.
+Simple C example of doing an HTTP POST and consuming the response.
+Setting variable to NULL after free.
+Const before or const after?
+How to call C++ function from C?
+How to convert enum names to string in c.
+Download file using libcurl in C/C++.
+Serialize Data Structures in C.

@@ -1,0 +1,100 @@
+Serialize Data Structures in C.
+Function pointers and address of a function.
+The "backspace" escape character '\b': unexpected behavior?
+Connecting n commands with pipes in a shell?
+Is malloc thread-safe?
+Detecting signed overflow in C/C++.
+Comma in C/C++ macro.
+What is CHAR_BIT?
+Why does optimisation kill this function?
+Can the linker inline functions?
+How to pass a multidimensional array to a function in C and C++.
+Visual C++ equivalent of GCC's __attribute__ ((__packed__)).
+Is there a C pre-processor which eliminates #ifdef blocks based on values defined/undefined?
+Is char guaranteed to be exactly 8-bit long?
+Are compilers allowed to eliminate infinite loops?
+Is this C implementation of Fisher-Yates shuffle correct?
+Function returns value without return statement.
+Why doesn't getchar() recognise return as EOF on the console?
+Creating a daemon in Linux.
+close vs shutdown socket?
+makefile:4: *** missing separator. Stop.
+C fopen vs open.
+How do I check if an integer is even or odd?
+Is there a replacement for unistd.h for Windows (Visual C)?
+typedef fixed length array.
+Why is address zero used for the null pointer?
+What is the difference between conversion specifiers %i and %d in formatted IO functions (*printf / *scanf).
+Generate random numbers following a normal distribution in C/C++.
+How do I understand complicated function declarations?
+How to get the current directory in a C program?
+how does array[100] = {0} set the entire array to 0?
+What should I do if two libraries provide a function with the same name generating a conflict?
+C - determine if a number is prime.
+Stringification - how does it work?
+bool to int conversion.
+scanf: "%[^\n]" skips the 2nd input but " %[^\n]" does not. why?
+Why does strncpy not null terminate?
+What are anonymous structs and unions useful for in C11?
+Function declaration: K&R vs ANSI.
+Testing pointers for validity (C/C++).
+Left shifting with a negative shift count.
+sizeof() operator in if-statement.
+What scanf function in c returns?
+Fixed-size floating point types.
+Why does printf not print out just one byte when printing hex?
+How does an uninitiliazed variable get a garbage value?
+C Minishell Adding Pipelines.
+C comma operator.
+error: function returns address of local variable.
+Modifying C string constants?
+Approximating data with a multi segment cubic bezier curve and a distance as well as a curvature contraint.
+How to best write a voxel engine in C with performance in mind.
+Using poll function with buffered streams.
+Pointers in C: when to use the ampersand and the asterisk?
+Pointer expressions: *ptr++, *++ptr and ++*ptr.
+Dot (".") operator and arrow ("->") operator use in C vs. Objective-C.
+Macro vs Function in C.
+How to deal with symbol collisions between statically linked libraries?
+How do you compare structs for equality in C?
+Why is sizeof considered an operator?
+Why does this program print "forked!" 4 times?
+Can we have recursive macros?
+Why are function pointers and data pointers incompatible in C/C++?
+Declaring variables inside a switch statement.
+Does free(ptr) where ptr is NULL corrupt memory?
+How to capture Control+D signal?
+C/C++: Force Bit Field Order and Alignment.
+Writing BMP image in pure c/c++ without other libraries.
+Find the highest order bit in C.
+Is there a standard function in C that would return the length of an array?
+In a C expression where unsigned int and signed int are present, which type will be promoted to what type?
+Correct usage of strtol.
+How to copy a char array in C?
+Can a const variable be used to declare the size of an array in C?
+When was the NULL macro not 0?
+Is the strrev() function not available in Linux?
+What common algorithms are used for C's rand()?
+printf("%p") and casting to (void *).
+What’s the correct way to use printf to print a clock_t?
+C macros and use of arguments in parentheses.
+What does space in scanf mean?
+Program doesn't wait for user input with scanf("%c",&yn);.
+If a function returns no value, with a valid return type, is it okay to for the compiler to throw garbage?
+While (( c = getc(file)) != EOF) loop won't stop executing.
+Using sizeof with a dynamically allocated array.
+Unsuccessful fread() of int stored in binary file, segmentation fault.
+Printing 1 to 1000 without loop or conditionals.
+What exactly is a reentrant function?
+What is a "callback" in C and how are they implemented?
+What is Bit Masking?
+How does photoshop blend two images together?
+Combine Gyroscope and Accelerometer Data.
+Is it ever advantageous to use 'goto' in a language that supports loops and functions? If so, why?
+A free tool to check C/C++ source code against a set of coding standards?
+memcpy() vs memmove().
+Why is the .bss segment required?
+Convert Python program to C/C++ code?
+Using C++ library in C code.
+How, exactly, does the double-stringize trick work?
+Is errno thread-safe?

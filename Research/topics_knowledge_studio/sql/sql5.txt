@@ -1,0 +1,100 @@
+What is the simplest SQL Query to find the second largest value?
+What is SELF JOIN and when would you use it?
+How do you return the column names of a table?
+error, string or binary data would be truncated when trying to insert.
+PostgreSQL DISTINCT ON with different ORDER BY.
+Possible to perform cross-database queries with PostgreSQL?
+Foreign Key to non-primary key.
+How can I convert bigint (UNIX timestamp) to datetime in SQL Server?
+How to return multiple values in one column (T-SQL)?
+Case insensitive string compare in LINQ-to-SQL.
+Remove Identity from a column in a table.
+What is the best approach using JDBC for parameterizing an IN clause?
+Pass table valued parameter using ADO.Net.
+SQL Select between dates.
+Multiple INNER JOIN SQL ACCESS.
+Get top results for each group (in Oracle).
+MySQL and JDBC with rewriteBatchedStatements=true.
+How do I make a row generator in MySQL?
+How to handle a single quote in Oracle SQL.
+Oracle SQL query: Retrieve latest values per group based on time.
+Select statement to find duplicates on certain fields.
+What are best practices for multi-language database design?
+What's the difference between HAVING and WHERE?
+Get record counts for all tables in MySQL database.
+Database Structure for Tree Data Structure.
+Copy tables from one database to another in SQL Server.
+How to convert DateTime to VarChar.
+SQL SELECT WHERE field contains words.
+efficient way to implement paging.
+How to find gaps in sequential numbering in mysql?
+How to execute IN() SQL queries with Spring's JDBCTemplate effectivly?
+Convert Datetime column from UTC to local time in select statement.
+Creating an index on a table variable.
+SQLite Reset Primary Key Field.
+Loading .sql files from within PHP.
+Query for array elements inside JSON type.
+SQLite in Android How to update a specific row.
+selecting unique values from a column.
+Detect if value is number in MySQL.
+MySQL - Conditional Foreign Key Constraints.
+PostgreSQL GROUP BY different from MySQL?
+Search for "whole word match" in MySQL.
+How do you create a temporary table in an Oracle database?
+including parameters in OPENQUERY.
+LISTAGG in Oracle to return distinct values.
+Using an Alias in a WHERE clause.
+Calculate Age in MySQL (InnoDb).
+Remove trailing zeros from decimal in SQL Server.
+MySQL number of items within "in clause".
+Conditional $sum in MongoDB.
+SELECT * EXCEPT.
+generate_series() equivalent in MySQL.
+Why is SQL Server losing a millisecond?
+sql - insert into multiple tables in one query.
+Creating a "Numbers Table" in MySQL.
+get a comma delimited string from rows.
+What are the most common SQL anti-patterns?
+SQL Server: How to Join to first row.
+When to use "ON UPDATE CASCADE".
+What is the difference between JOIN and UNION?
+Database design for a survey.
+How do I dump the data of some SQLite3 tables?
+mysql update column with value from another table.
+SELECT DISTINCT on one column.
+SQL RANK() versus ROW_NUMBER().
+How to delete duplicate entries?
+MySQL INSERT INTO table VALUES.. vs INSERT INTO table SET.
+Grouped LIMIT in PostgreSQL: show the first N rows for each group?
+Combining "LIKE" and "IN" for SQL Server.
+Cast from VARCHAR to INT - MySQL.
+How to group time by hour or by 10 minutes .
+MySQL Results as comma separated list.
+Generating a random & unique 8 character string using MySQL.
+Delete duplicate records in SQL Server?
+How to send multiple data fields via Ajax?
+Passing an array of parameters to a stored procedure.
+Most efficient way to get table row count.
+ORA-12560: TNS:protocol adaptor error.
+Unknown column in 'field list' error on MySQL Update query.
+Removing leading zeroes from a field in a SQL statement.
+Identity column value suddenly jumps to 1001 in sql server.
+PHP & MYSQL: How to resolve ambiguous column names in JOIN operation?
+What is the string concatenation operator in Oracle?
+Best way to defend against mysql injection and cross site scripting.
+SQL Express connection string: mdf file location relative to application location.
+Difference between language sql and language plpgsql in PostgreSQL functions.
+How to use a tablename variable for a java prepared statement insert.
+MySQL unknown column in ON clause.
+How do I use on delete cascade in mysql?
+Creating table names that are reserved words/keywords in MS SQL Server.
+How to install MySQLi.
+SQL Server 2005 Pivot on Unknown Number of Columns.
+MySQL : isn't in GROUP BY.
+SQL Query to get aggregated result in comma separators along with group by column in SQL Server.
+get JOIN table as array of results with PostgreSQL/NodeJS.
+Table-less UNION query in MS Access (Jet/ACE).
+Concat groups in SQL Server.
+What is atomicity in dbms.
+ORA-00918: column ambiguously defined in SELECT *.
+How to get matching data from another SQL table for two different columns: Inner Join and/or Union?
