@@ -44,5 +44,8 @@ https://drive.google.com/file/d/1wX_WRGH3No4DQZ8CONdEZlwj1qK3flGO/view?usp=shari
 ## VIDEO LINK:
 https://youtu.be/omWdOuMeS9A
 
-## FLOW DIAGRAM:  
+## FLOW DIAGRAMS:  
 ![FLow diagram image should show here](flow_diagram.jpg)
+
+![dfd diagram image should show here](dfd_diagram.png)
+
