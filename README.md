@@ -1,36 +1,16 @@
 # Programming_Problem_Solver
-A PyQT5 desktop Application That analyse user's programming query and fetch the most relevant answers of the most relevant questions.
+A PyQT5 desktop Application that analyses user's StackOverflow query and fetches the most relevant answers from the most relevant questions.
 
-### Quick Installation:
->>> Inside the repositry type:
-```pip install -r requirements.txt```
- and than to download Spacy English Model(11mb) type:
-```python -m spacy download en_core_web_sm``` 
-## --------------------------------------------------------------
->>> If you wish to install them the long way:
-1) Python 3.6
-2) Pandas
-```pip install pandas```  
-3) spacy
-```pip install spacy```  
-3) ibm_watson_cloud_sdk
-```pip install --upgrade ibm-watson```  
-4) PyQt5
-```pip install pyQt5```  
-5) pyQtWebEngine
-```pip install PyQtWebEngine```  
-6) numpy
-```pip install numpy```  
-7) nltk
-```pip install nltk```
-8) Spacy English Model
-```python -m spacy download en_core_web_sm```  
-## --------------------------------------------------------------
+# Quick Installation:
+Inside the project repositry type: \
+`pip install -r requirements.txt` \
+Also download Spacy English Model(11mb):\
+`python -m spacy download en_core_web_sm`
 
 ## Watson Services Used:  
-####1) Watson Knowledge Studio  
-####2) Watson NLU  
-####3) Watson Assistant's Fuzzy Logic and Spell checking.  
+* Watson Knowledge Studio  
+* Watson NLU  
+* Watson Assistant's Fuzzy Logic and Spell checking.  
 
 ## How to run this application:
 ```python code.py```
