@@ -1,4 +1,4 @@
-# Programming_Problem_Solver
+# Semantic_Engine
 A PyQT5 desktop Application that analyses user's StackOverflow query and fetches the most relevant answers from the most relevant questions.
 
 # Quick Installation:
@@ -39,7 +39,7 @@ You can also see the command prompt to see what is happening in the background:
 3). Complex features are made based on Quesiton title to check the text similarity with the user's query  
 
 ## PPT LINK:  
-https://drive.google.com/file/d/1wX_WRGH3No4DQZ8CONdEZlwj1qK3flGO/view?usp=sharing
+https://drive.google.com/file/d/1RtMJw86cafO-ddnuzFWwDsWePUzgwhLb/view?usp=sharing
 
 ## VIDEO LINK:
 https://youtu.be/omWdOuMeS9A
