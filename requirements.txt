@@ -13,7 +13,7 @@ numpy==1.16.4
 pandas==0.24.2
 plac==0.9.6
 preshed==2.0.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyQt5==5.13.0
 PyQt5-sip==4.19.18
 PyQtWebEngine==5.13.0
